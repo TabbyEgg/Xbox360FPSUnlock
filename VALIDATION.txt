@@ -1,0 +1,44 @@
+RGH FPS Workbench 0.3.0 (development prototype) — validation
+Date: 2026-11-04
+
+PASS: python3 -m unittest discover -q
+57 tests passed locally on Linux.
+
+PASS: python3 -m compileall -q rghfps tests run_workbench.pyw
+
+Coverage includes:
+- XEX2 metadata, delta source/target versions and absent patch/library execution
+  metadata. Main game executables still require known identity metadata.
+- Both supplied RSV2 edits, long signatures after locations shift, rejected
+  ambiguous patterns, build/hash/version/byte mismatches and overlapping edits.
+- Pasted descriptions, payload comparisons and exact export receipts.
+- STFS data/hash integrity, noncontiguous chains, secondary and multi-level tables.
+- TU merge before normalization, auxiliary module updates and original preservation.
+- A real subprocess wrapper and CLI invocation with a synthetic XexTool shim.
+- GOD/SVOD split, enhanced and embedded layouts, fragment boundaries, nested
+  directories, full exports, missing parts, corruption and unsafe paths.
+- ISO/XISO extraction at four supported partition offsets, direct preparation,
+  TU export, source changes, unsafe paths and inventory scans.
+- TU inspection/extraction without XexTool or a base game dump.
+- Loopback XBDM TCP tests: fragmented framing, both recognized length byte orders,
+  truncated/invalid binary responses, new-file and folder transfers, SHA-256
+  readback, failed verification cleanup, existing-file protection and cancellation.
+- Explicit console launch requests with rechecking of uploaded executable bytes.
+
+Read-only real-file check:
+A supplied RSV2 STFS title update (Title ID 55530807, Media ID 1982EE1E) passed
+hash-checked inspection and extraction. The four encrypted delta patches were
+recognized, including their absent execution-information headers. This package
+is not committed to the repository or used by its automated test suite.
+
+Limits:
+The automated tests generate synthetic fixtures; the XexTool shim does not test
+actual encryption or delta processing. Real XexTool merging, real ISO/GOD inputs,
+Windows GUI/EXE packaging, real XBDM connections and Xbox 360 runtime behavior
+have not been tested here. The Unix executable-shim test skips on Windows.
+
+The repository includes a GitHub Actions matrix for Windows/Linux and Python
+3.10/3.12. Its remote status must be checked separately from these local results.
+
+Compact modified TU generation is not implemented. No measured FPS or full TU
+runtime compatibility claim is made.

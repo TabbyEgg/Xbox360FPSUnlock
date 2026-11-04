@@ -1,0 +1,3515 @@
+{
+  "schema": 1,
+  "snapshot_commit": "fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d",
+  "source": "https://github.com/xenia-canary/game-patches",
+  "note": "Reference catalog only. Entries can contain fixes unrelated to FPS. No console patch support or TU compatibility is implied.",
+  "games": [
+    {
+      "title_id": "354807D1",
+      "title": "Painkiller Hell & Damnation (TU1)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/354807D1%20-%20Painkiller%20Hell%20%26%20Damnation%20(TU1).patch.toml"
+    },
+    {
+      "title_id": "354807D1",
+      "title": "Painkiller Hell & Damnation",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/354807D1%20-%20Painkiller%20Hell%20%26%20Damnation.patch.toml"
+    },
+    {
+      "title_id": "354807D5",
+      "title": "Deadfall Adventures (TU1)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/354807D5%20-%20Deadfall%20Adventures%20(TU1).patch.toml"
+    },
+    {
+      "title_id": "354807D5",
+      "title": "Deadfall Adventures",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/354807D5%20-%20Deadfall%20Adventures.patch.toml"
+    },
+    {
+      "title_id": "415407D7",
+      "title": "Catherine (USA)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/415407D7%20-%20Catherine%20(USA).patch.toml"
+    },
+    {
+      "title_id": "415407DE",
+      "title": "Game of Thrones (USA)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/415407DE%20-%20Game%20of%20Thrones%20(USA).patch.toml"
+    },
+    {
+      "title_id": "415607D2",
+      "title": "Quake 4",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/415607D2%20-%20Quake%204.patch.toml"
+    },
+    {
+      "title_id": "415607D3",
+      "title": "Gun (Germany)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/415607D3%20-%20Gun%20(Germany).patch.toml"
+    },
+    {
+      "title_id": "415607D3",
+      "title": "Gun (USA, Europe)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/415607D3%20-%20Gun%20(USA%2C%20Europe).patch.toml"
+    },
+    {
+      "title_id": "415607D3",
+      "title": "Gun",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/415607D3%20-%20Gun.patch.toml"
+    },
+    {
+      "title_id": "415607D6",
+      "title": "Quake 2",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/415607D6%20-%20Quake%202.patch.toml"
+    },
+    {
+      "title_id": "415607D7",
+      "title": "Quake 4 (Germany)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/415607D7%20-%20Quake%204%20(Germany).patch.toml"
+    },
+    {
+      "title_id": "415607DA",
+      "title": "Marvel Ultimate Alliance (Special Edition)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/415607DA%20-%20Marvel%20Ultimate%20Alliance%20(Special%20Edition).patch.toml"
+    },
+    {
+      "title_id": "415607DA",
+      "title": "Marvel Ultimate Alliance (TU2)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/415607DA%20-%20Marvel%20Ultimate%20Alliance%20(TU2).patch.toml"
+    },
+    {
+      "title_id": "415607DA",
+      "title": "Marvel Ultimate Alliance",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/415607DA%20-%20Marvel%20Ultimate%20Alliance.patch.toml"
+    },
+    {
+      "title_id": "415607DD",
+      "title": "Tony Hawk's Project 8",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/415607DD%20-%20Tony%20Hawk's%20Project%208.patch.toml"
+    },
+    {
+      "title_id": "415607E1",
+      "title": "Call Of Duty 3 (TU3)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/415607E1%20-%20Call%20Of%20Duty%203%20(TU3).patch.toml"
+    },
+    {
+      "title_id": "415607E1",
+      "title": "Call Of Duty 3 MP (TU3)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/415607E1%20-%20Call%20Of%20Duty%203%20MP%20(TU3).patch.toml"
+    },
+    {
+      "title_id": "415607E1",
+      "title": "Call Of Duty 3 MP",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/415607E1%20-%20Call%20Of%20Duty%203%20MP.patch.toml"
+    },
+    {
+      "title_id": "415607E1",
+      "title": "Call Of Duty 3",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/415607E1%20-%20Call%20Of%20Duty%203.patch.toml"
+    },
+    {
+      "title_id": "415607E6",
+      "title": "Call of Duty 4 Modern Warfare (TU4)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/415607E6%20-%20Call%20of%20Duty%204%20Modern%20Warfare%20(TU4).patch.toml"
+    },
+    {
+      "title_id": "415607E6",
+      "title": "Call of Duty 4 Modern Warfare MP (TU4)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/415607E6%20-%20Call%20of%20Duty%204%20Modern%20Warfare%20MP%20(TU4).patch.toml"
+    },
+    {
+      "title_id": "415607E8",
+      "title": "DreamWorks Shrek the Third (Europe)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/415607E8%20-%20DreamWorks%20Shrek%20the%20Third%20(Europe).patch.toml"
+    },
+    {
+      "title_id": "415607E8",
+      "title": "DreamWorks Shrek the Third (USA)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/415607E8%20-%20DreamWorks%20Shrek%20the%20Third%20(USA).patch.toml"
+    },
+    {
+      "title_id": "415607EF",
+      "title": "Singularity (TU2)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/415607EF%20-%20Singularity%20(TU2).patch.toml"
+    },
+    {
+      "title_id": "415607EF",
+      "title": "Singularity",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/415607EF%20-%20Singularity.patch.toml"
+    },
+    {
+      "title_id": "415607F2",
+      "title": "Kung Fu Panda",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/415607F2%20-%20Kung%20Fu%20Panda.patch.toml"
+    },
+    {
+      "title_id": "415607F5",
+      "title": "Bee Movie Game",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/415607F5%20-%20Bee%20Movie%20Game.patch.toml"
+    },
+    {
+      "title_id": "415607FF",
+      "title": "007 Quantum of Solace MP (TU2)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/415607FF%20-%20007%20Quantum%20of%20Solace%20MP%20(TU2).patch.toml"
+    },
+    {
+      "title_id": "415607FF",
+      "title": "007 Quantum of Solace MP",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/415607FF%20-%20007%20Quantum%20of%20Solace%20MP.patch.toml"
+    },
+    {
+      "title_id": "415607FF",
+      "title": "007 Quantum of Solace",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/415607FF%20-%20007%20Quantum%20of%20Solace.patch.toml"
+    },
+    {
+      "title_id": "41560816",
+      "title": "X-Men Origins Wolverine",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/41560816%20-%20X-Men%20Origins%20Wolverine.patch.toml"
+    },
+    {
+      "title_id": "41560817",
+      "title": "Call of Duty - Modern Warfare 2 (TU0)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/41560817%20-%20Call%20of%20Duty%20-%20Modern%20Warfare%202%20(TU0).patch.toml"
+    },
+    {
+      "title_id": "41560817",
+      "title": "Call of Duty - Modern Warfare 2 (TU9)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/41560817%20-%20Call%20of%20Duty%20-%20Modern%20Warfare%202%20(TU9).patch.toml"
+    },
+    {
+      "title_id": "41560817",
+      "title": "Call of Duty - Modern Warfare 2 MP (TU0)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/41560817%20-%20Call%20of%20Duty%20-%20Modern%20Warfare%202%20MP%20(TU0).patch.toml"
+    },
+    {
+      "title_id": "41560817",
+      "title": "Call of Duty - Modern Warfare 2 MP (TU9)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/41560817%20-%20Call%20of%20Duty%20-%20Modern%20Warfare%202%20MP%20(TU9).patch.toml"
+    },
+    {
+      "title_id": "41560817",
+      "title": "Modern Warfare 2 (TU6)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/41560817%20-%20Modern%20Warfare%202%20(TU6).patch.toml"
+    },
+    {
+      "title_id": "4156081C",
+      "title": "Call of Duty - World at War (Sep 27, 2008 Prototype) (MP)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4156081C%20-%20Call%20of%20Duty%20-%20World%20at%20War%20(Sep%2027%2C%202008%20Prototype)%20(MP).patch.toml"
+    },
+    {
+      "title_id": "4156081C",
+      "title": "Call of Duty - World at War (Sep 27, 2008 Prototype) (SP)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4156081C%20-%20Call%20of%20Duty%20-%20World%20at%20War%20(Sep%2027%2C%202008%20Prototype)%20(SP).patch.toml"
+    },
+    {
+      "title_id": "4156082F",
+      "title": "Marvel Ultimate Alliance 2",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4156082F%20-%20Marvel%20Ultimate%20Alliance%202.patch.toml"
+    },
+    {
+      "title_id": "41560845",
+      "title": "Blur (TU2)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/41560845%20-%20Blur%20(TU2).patch.toml"
+    },
+    {
+      "title_id": "41560845",
+      "title": "Blur",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/41560845%20-%20Blur.patch.toml"
+    },
+    {
+      "title_id": "4156084C",
+      "title": "Transformers War for Cybertron (TU1)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4156084C%20-%20Transformers%20War%20for%20Cybertron%20(TU1).patch.toml"
+    },
+    {
+      "title_id": "4156084C",
+      "title": "Transformers War for Cybertron",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4156084C%20-%20Transformers%20War%20for%20Cybertron.patch.toml"
+    },
+    {
+      "title_id": "4156088B",
+      "title": "Apache Air Assault (TU1)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4156088B%20-%20Apache%20Air%20Assault%20(TU1).patch.toml"
+    },
+    {
+      "title_id": "4156088B",
+      "title": "Apache Air Assault",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4156088B%20-%20Apache%20Air%20Assault.patch.toml"
+    },
+    {
+      "title_id": "4156089C",
+      "title": "Transformers Fall of Cybertron (TU1)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4156089C%20-%20Transformers%20Fall%20of%20Cybertron%20(TU1).patch.toml"
+    },
+    {
+      "title_id": "4156089C",
+      "title": "Transformers Fall of Cybertron (TU2)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4156089C%20-%20Transformers%20Fall%20of%20Cybertron%20(TU2).patch.toml"
+    },
+    {
+      "title_id": "4156089C",
+      "title": "Transformers Fall of Cybertron",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4156089C%20-%20Transformers%20Fall%20of%20Cybertron.patch.toml"
+    },
+    {
+      "title_id": "415608A4",
+      "title": "Transformers Dark of the Moon (TU1)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/415608A4%20-%20Transformers%20Dark%20of%20the%20Moon%20(TU1).patch.toml"
+    },
+    {
+      "title_id": "415608A4",
+      "title": "Transformers Dark of the Moon",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/415608A4%20-%20Transformers%20Dark%20of%20the%20Moon.patch.toml"
+    },
+    {
+      "title_id": "415608AF",
+      "title": "GoldenEye 007 Reloaded",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/415608AF%20-%20GoldenEye%20007%20Reloaded.patch.toml"
+    },
+    {
+      "title_id": "415608C5",
+      "title": "Family Guy Back to the Multiverse",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/415608C5%20-%20Family%20Guy%20Back%20to%20the%20Multiverse.patch.toml"
+    },
+    {
+      "title_id": "415608EC",
+      "title": "Deadpool",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/415608EC%20-%20Deadpool.patch.toml"
+    },
+    {
+      "title_id": "41560901",
+      "title": "Angry Birds Star Wars",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/41560901%20-%20Angry%20Birds%20Star%20Wars.patch.toml"
+    },
+    {
+      "title_id": "41560904",
+      "title": "Transformers-Rise of The Dark Spark",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/41560904%20-%20Transformers-Rise%20of%20The%20Dark%20Spark.patch.toml"
+    },
+    {
+      "title_id": "424107DC",
+      "title": "Dragon Ball Z Burst Limit (EU)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/424107DC%20-%20Dragon%20Ball%20Z%20Burst%20Limit%20(EU).patch.toml"
+    },
+    {
+      "title_id": "424107DC",
+      "title": "Dragon Ball Z Burst Limit (US)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/424107DC%20-%20Dragon%20Ball%20Z%20Burst%20Limit%20(US).patch.toml"
+    },
+    {
+      "title_id": "425307D1",
+      "title": "The Elder Scrolls IV Oblivion (GOTY)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/425307D1%20-%20The%20Elder%20Scrolls%20IV%20Oblivion%20(GOTY).patch.toml"
+    },
+    {
+      "title_id": "425307D3",
+      "title": "Rogue Warrior (TU1)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/425307D3%20-%20Rogue%20Warrior%20(TU1).patch.toml"
+    },
+    {
+      "title_id": "425307D3",
+      "title": "Rogue Warrior",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/425307D3%20-%20Rogue%20Warrior.patch.toml"
+    },
+    {
+      "title_id": "425307D7",
+      "title": "Hunted The Demon's Forge (TU1)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/425307D7%20-%20Hunted%20The%20Demon's%20Forge%20(TU1).patch.toml"
+    },
+    {
+      "title_id": "425307D7",
+      "title": "Hunted The Demon's Forge",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/425307D7%20-%20Hunted%20The%20Demon's%20Forge.patch.toml"
+    },
+    {
+      "title_id": "425307DB",
+      "title": "Wet",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/425307DB%20-%20Wet.patch.toml"
+    },
+    {
+      "title_id": "425307E3",
+      "title": "Dishonored (Europe)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/425307E3%20-%20Dishonored%20(Europe).patch.toml"
+    },
+    {
+      "title_id": "425307E3",
+      "title": "Dishonored (Europe, USA)(TU4)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/425307E3%20-%20Dishonored%20(Europe%2C%20USA)(TU4).patch.toml"
+    },
+    {
+      "title_id": "425307E3",
+      "title": "Dishonored (USA)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/425307E3%20-%20Dishonored%20(USA).patch.toml"
+    },
+    {
+      "title_id": "425307E6",
+      "title": "The Elder Scrolls V Skyrim",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/425307E6%20-%20The%20Elder%20Scrolls%20V%20Skyrim.patch.toml"
+    },
+    {
+      "title_id": "425307F1",
+      "title": "DOOM 3 BFG Edition",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/425307F1%20-%20DOOM%203%20BFG%20Edition.patch.toml"
+    },
+    {
+      "title_id": "425607D1",
+      "title": "Pirates of the Caribbean",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/425607D1%20-%20Pirates%20of%20the%20Caribbean.patch.toml"
+    },
+    {
+      "title_id": "425607D3",
+      "title": "Turok (TU2)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/425607D3%20-%20Turok%20(TU2).patch.toml"
+    },
+    {
+      "title_id": "425607D3",
+      "title": "Turok",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/425607D3%20-%20Turok.patch.toml"
+    },
+    {
+      "title_id": "425607E5",
+      "title": "Toy Story 3",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/425607E5%20-%20Toy%20Story%203.patch.toml"
+    },
+    {
+      "title_id": "425607ED",
+      "title": "Tron Evolution (TU1)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/425607ED%20-%20Tron%20Evolution%20(TU1).patch.toml"
+    },
+    {
+      "title_id": "425607ED",
+      "title": "Tron Evolution",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/425607ED%20-%20Tron%20Evolution.patch.toml"
+    },
+    {
+      "title_id": "42560816",
+      "title": "Epic Mickey 2 The Power Of Two",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/42560816%20-%20Epic%20Mickey%202%20The%20Power%20Of%20Two.patch.toml"
+    },
+    {
+      "title_id": "434107D2",
+      "title": "Tetris The Grand Master Ace",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/434107D2%20-%20Tetris%20The%20Grand%20Master%20Ace.patch.toml"
+    },
+    {
+      "title_id": "434307D4",
+      "title": "Resident Evil 5",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/434307D4%20-%20Resident%20Evil%205.patch.toml"
+    },
+    {
+      "title_id": "434307E0",
+      "title": "Dark Void (TU1)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/434307E0%20-%20Dark%20Void%20(TU1).patch.toml"
+    },
+    {
+      "title_id": "434307E0",
+      "title": "Dark Void",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/434307E0%20-%20Dark%20Void.patch.toml"
+    },
+    {
+      "title_id": "43430814",
+      "title": "Dragon's Dogma Dark Arisen (TU3)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/43430814%20-%20Dragon's%20Dogma%20Dark%20Arisen%20(TU3).patch.toml"
+    },
+    {
+      "title_id": "43430817",
+      "title": "Asura's Wrath (TU1)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/43430817%20-%20Asura's%20Wrath%20(TU1).patch.toml"
+    },
+    {
+      "title_id": "43430817",
+      "title": "Asura's Wrath",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/43430817%20-%20Asura's%20Wrath.patch.toml"
+    },
+    {
+      "title_id": "43430824",
+      "title": "DmC Devil May Cry (TU1)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/43430824%20-%20DmC%20Devil%20May%20Cry%20(TU1).patch.toml"
+    },
+    {
+      "title_id": "43430824",
+      "title": "DmC Devil May Cry",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/43430824%20-%20DmC%20Devil%20May%20Cry.patch.toml"
+    },
+    {
+      "title_id": "4343082F",
+      "title": "Remember Me",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4343082F%20-%20Remember%20Me.patch.toml"
+    },
+    {
+      "title_id": "43430830",
+      "title": "Lost Planet 3 (TU1)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/43430830%20-%20Lost%20Planet%203%20(TU1).patch.toml"
+    },
+    {
+      "title_id": "43430830",
+      "title": "Lost Planet 3",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/43430830%20-%20Lost%20Planet%203.patch.toml"
+    },
+    {
+      "title_id": "43430841",
+      "title": "Resident Evil",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/43430841%20-%20Resident%20Evil.patch.toml"
+    },
+    {
+      "title_id": "43430842",
+      "title": "Resident Evil 0",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/43430842%20-%20Resident%20Evil%200.patch.toml"
+    },
+    {
+      "title_id": "434D07DE",
+      "title": "Rise of the Argonauts",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/434D07DE%20-%20Rise%20of%20the%20Argonauts.patch.toml"
+    },
+    {
+      "title_id": "434D07E0",
+      "title": "Turning Point Fall of Liberty",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/434D07E0%20-%20Turning%20Point%20Fall%20of%20Liberty.patch.toml"
+    },
+    {
+      "title_id": "434D0806",
+      "title": "Damnation",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/434D0806%20-%20Damnation.patch.toml"
+    },
+    {
+      "title_id": "434D0822",
+      "title": "Leisure Suit Larry Box Office Bust",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/434D0822%20-%20Leisure%20Suit%20Larry%20Box%20Office%20Bust.patch.toml"
+    },
+    {
+      "title_id": "435907D4",
+      "title": "Sniper Ghost Warrior 2 (TU2)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/435907D4%20-%20Sniper%20Ghost%20Warrior%202%20(TU2).patch.toml"
+    },
+    {
+      "title_id": "435907D4",
+      "title": "Sniper Ghost Warrior 2",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/435907D4%20-%20Sniper%20Ghost%20Warrior%202.patch.toml"
+    },
+    {
+      "title_id": "435907D5",
+      "title": "Enemy Front (TU1)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/435907D5%20-%20Enemy%20Front%20(TU1).patch.toml"
+    },
+    {
+      "title_id": "435907D5",
+      "title": "Enemy Front",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/435907D5%20-%20Enemy%20Front.patch.toml"
+    },
+    {
+      "title_id": "445007EA",
+      "title": "Onechanbara Bikini Samurai Squad",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/445007EA%20-%20Onechanbara%20Bikini%20Samurai%20Squad.patch.toml"
+    },
+    {
+      "title_id": "445007F4",
+      "title": "お姉チャンバラZ～カグラ～",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/445007F4%20-%20%E3%81%8A%E5%A7%89%E3%83%81%E3%83%A3%E3%83%B3%E3%83%90%E3%83%A9Z%EF%BD%9E%E3%82%AB%E3%82%B0%E3%83%A9%EF%BD%9E.patch.toml"
+    },
+    {
+      "title_id": "454107D9",
+      "title": "Need for Speed Most Wanted (2005)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/454107D9%20-%20Need%20for%20Speed%20Most%20Wanted%20(2005).patch.toml"
+    },
+    {
+      "title_id": "454107DC",
+      "title": "Burnout Revenge",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/454107DC%20-%20Burnout%20Revenge.patch.toml"
+    },
+    {
+      "title_id": "454107F8",
+      "title": "Army of Two (USA)(TU2)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/454107F8%20-%20Army%20of%20Two%20(USA)(TU2).patch.toml"
+    },
+    {
+      "title_id": "454107F8",
+      "title": "Army of Two (USA)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/454107F8%20-%20Army%20of%20Two%20(USA).patch.toml"
+    },
+    {
+      "title_id": "454107F9",
+      "title": "Battlefield Bad Company",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/454107F9%20-%20Battlefield%20Bad%20Company.patch.toml"
+    },
+    {
+      "title_id": "45410809",
+      "title": "The Simpsons Game",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/45410809%20-%20The%20Simpsons%20Game.patch.toml"
+    },
+    {
+      "title_id": "4541080F",
+      "title": "The Orange Box (TU5) (GameUI_360.dll)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4541080F%20-%20The%20Orange%20Box%20(TU5)%20(GameUI_360.dll).patch.toml"
+    },
+    {
+      "title_id": "4541080F",
+      "title": "The Orange Box (TU5) (engine_360.dll)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4541080F%20-%20The%20Orange%20Box%20(TU5)%20(engine_360.dll).patch.toml"
+    },
+    {
+      "title_id": "4541080F",
+      "title": "The Orange Box (TU5) (tf-bin-Server_360.dll)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4541080F%20-%20The%20Orange%20Box%20(TU5)%20(tf-bin-Server_360.dll).patch.toml"
+    },
+    {
+      "title_id": "4541080F",
+      "title": "The Orange Box (default.xex)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4541080F%20-%20The%20Orange%20Box%20(default.xex).patch.toml"
+    },
+    {
+      "title_id": "4541080F",
+      "title": "The Orange Box (engine_360.dll)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4541080F%20-%20The%20Orange%20Box%20(engine_360.dll).patch.toml"
+    },
+    {
+      "title_id": "4541080F",
+      "title": "The Orange Box (shaderapidx9_360.dll)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4541080F%20-%20The%20Orange%20Box%20(shaderapidx9_360.dll).patch.toml"
+    },
+    {
+      "title_id": "4541080F",
+      "title": "The Orange Box (tf-bin-Client_360.dll)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4541080F%20-%20The%20Orange%20Box%20(tf-bin-Client_360.dll).patch.toml"
+    },
+    {
+      "title_id": "4541084C",
+      "title": "Army of Two (Europe)(TU2)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4541084C%20-%20Army%20of%20Two%20(Europe)(TU2).patch.toml"
+    },
+    {
+      "title_id": "4541084C",
+      "title": "Army of Two (Europe)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4541084C%20-%20Army%20of%20Two%20(Europe).patch.toml"
+    },
+    {
+      "title_id": "45410850",
+      "title": "Mirror's Edge (TU2)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/45410850%20-%20Mirror's%20Edge%20(TU2).patch.toml"
+    },
+    {
+      "title_id": "45410850",
+      "title": "Mirror's Edge",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/45410850%20-%20Mirror's%20Edge.patch.toml"
+    },
+    {
+      "title_id": "4541087F",
+      "title": "Skate 2",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4541087F%20-%20Skate%202.patch.toml"
+    },
+    {
+      "title_id": "454108CE",
+      "title": "Mass Effect 2 (TU2)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/454108CE%20-%20Mass%20Effect%202%20(TU2).patch.toml"
+    },
+    {
+      "title_id": "454108CE",
+      "title": "Mass Effect 2",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/454108CE%20-%20Mass%20Effect%202.patch.toml"
+    },
+    {
+      "title_id": "454108CF",
+      "title": "Dante's Inferno (TU2)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/454108CF%20-%20Dante's%20Inferno%20(TU2).patch.toml"
+    },
+    {
+      "title_id": "454108CF",
+      "title": "Dante's Inferno",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/454108CF%20-%20Dante's%20Inferno.patch.toml"
+    },
+    {
+      "title_id": "454108D8",
+      "title": "Army of Two The 40th Day (TU3)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/454108D8%20-%20Army%20of%20Two%20The%2040th%20Day%20(TU3).patch.toml"
+    },
+    {
+      "title_id": "454108D8",
+      "title": "Army of Two The 40th Day",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/454108D8%20-%20Army%20of%20Two%20The%2040th%20Day.patch.toml"
+    },
+    {
+      "title_id": "454108E3",
+      "title": "Crysis 2 (TU4)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/454108E3%20-%20Crysis%202%20(TU4).patch.toml"
+    },
+    {
+      "title_id": "454108E3",
+      "title": "Crysis 2",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/454108E3%20-%20Crysis%202.patch.toml"
+    },
+    {
+      "title_id": "454108E6",
+      "title": "Skate 3",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/454108E6%20-%20Skate%203.patch.toml"
+    },
+    {
+      "title_id": "454108EF",
+      "title": "Bulletstorm (TU3)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/454108EF%20-%20Bulletstorm%20(TU3).patch.toml"
+    },
+    {
+      "title_id": "454108EF",
+      "title": "Bulletstorm",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/454108EF%20-%20Bulletstorm.patch.toml"
+    },
+    {
+      "title_id": "454108F7",
+      "title": "Medal of Honor",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/454108F7%20-%20Medal%20of%20Honor.patch.toml"
+    },
+    {
+      "title_id": "45410914",
+      "title": "Rock Band 3 (TU5)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/45410914%20-%20Rock%20Band%203%20(TU5).patch.toml"
+    },
+    {
+      "title_id": "45410914",
+      "title": "Rock Band 3",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/45410914%20-%20Rock%20Band%203.patch.toml"
+    },
+    {
+      "title_id": "45410915",
+      "title": "Fight Night Champion (TU0)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/45410915%20-%20Fight%20Night%20Champion%20(TU0).patch.toml"
+    },
+    {
+      "title_id": "45410915",
+      "title": "Fight Night Champion (TU1)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/45410915%20-%20Fight%20Night%20Champion%20(TU1).patch.toml"
+    },
+    {
+      "title_id": "45410915",
+      "title": "Fight Night Champion (TU2)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/45410915%20-%20Fight%20Night%20Champion%20(TU2).patch.toml"
+    },
+    {
+      "title_id": "45410916",
+      "title": "Alice Madness Returns",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/45410916%20-%20Alice%20Madness%20Returns.patch.toml"
+    },
+    {
+      "title_id": "4541092A",
+      "title": "Shadows of the Damned",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4541092A%20-%20Shadows%20of%20the%20Damned.patch.toml"
+    },
+    {
+      "title_id": "4541095D",
+      "title": "Mass Effect 3 (TU6)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4541095D%20-%20Mass%20Effect%203%20(TU6).patch.toml"
+    },
+    {
+      "title_id": "4541095D",
+      "title": "Mass Effect 3",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4541095D%20-%20Mass%20Effect%203.patch.toml"
+    },
+    {
+      "title_id": "45410968",
+      "title": "Crysis",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/45410968%20-%20Crysis.patch.toml"
+    },
+    {
+      "title_id": "4541096D",
+      "title": "SSX",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4541096D%20-%20SSX.patch.toml"
+    },
+    {
+      "title_id": "4541096E",
+      "title": "Fuse",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4541096E%20-%20Fuse.patch.toml"
+    },
+    {
+      "title_id": "4541098E",
+      "title": "Crysis 3 (TU3)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4541098E%20-%20Crysis%203%20(TU3).patch.toml"
+    },
+    {
+      "title_id": "4541098E",
+      "title": "Crysis 3",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4541098E%20-%20Crysis%203.patch.toml"
+    },
+    {
+      "title_id": "464507DB",
+      "title": "Game of Thrones (Europe 1)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/464507DB%20-%20Game%20of%20Thrones%20(Europe%201).patch.toml"
+    },
+    {
+      "title_id": "464507DB",
+      "title": "Game of Thrones (Europe 2)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/464507DB%20-%20Game%20of%20Thrones%20(Europe%202).patch.toml"
+    },
+    {
+      "title_id": "464507DF",
+      "title": "Sherlock Holmes Crimes & Punishments",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/464507DF%20-%20Sherlock%20Holmes%20Crimes%20%26%20Punishments.patch.toml"
+    },
+    {
+      "title_id": "464507E1",
+      "title": "Farming Simulator (TU1)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/464507E1%20-%20Farming%20Simulator%20(TU1).patch.toml"
+    },
+    {
+      "title_id": "464507E1",
+      "title": "Farming Simulator 15",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/464507E1%20-%20Farming%20Simulator%2015.patch.toml"
+    },
+    {
+      "title_id": "464507E1",
+      "title": "Farming Simulator",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/464507E1%20-%20Farming%20Simulator.patch.toml"
+    },
+    {
+      "title_id": "464F07D1",
+      "title": "IL-2 Sturmovik Birds of Prey",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/464F07D1%20-%20IL-2%20Sturmovik%20Birds%20of%20Prey.patch.toml"
+    },
+    {
+      "title_id": "464F07E8",
+      "title": "Sniper Elite V2 (SSE, GOTY)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/464F07E8%20-%20Sniper%20Elite%20V2%20(SSE%2C%20GOTY).patch.toml"
+    },
+    {
+      "title_id": "464F07E8",
+      "title": "Sniper Elite V2 (TU2)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/464F07E8%20-%20Sniper%20Elite%20V2%20(TU2).patch.toml"
+    },
+    {
+      "title_id": "464F07E8",
+      "title": "Sniper Elite V2",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/464F07E8%20-%20Sniper%20Elite%20V2.patch.toml"
+    },
+    {
+      "title_id": "464F0803",
+      "title": "Sniper Elite 3 (TU5)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/464F0803%20-%20Sniper%20Elite%203%20(TU5).patch.toml"
+    },
+    {
+      "title_id": "464F0803",
+      "title": "Sniper Elite 3 (Ultimate Edition)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/464F0803%20-%20Sniper%20Elite%203%20(Ultimate%20Edition).patch.toml"
+    },
+    {
+      "title_id": "464F0803",
+      "title": "Sniper Elite 3",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/464F0803%20-%20Sniper%20Elite%203.patch.toml"
+    },
+    {
+      "title_id": "465307D6",
+      "title": "Armored Core 4 (USA)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/465307D6%20-%20Armored%20Core%204%20(USA).patch.toml"
+    },
+    {
+      "title_id": "465307D7",
+      "title": "Tenchu Z",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/465307D7%20-%20Tenchu%20Z.patch.toml"
+    },
+    {
+      "title_id": "474507D1",
+      "title": "Shutoko Battle X",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/474507D1%20-%20Shutoko%20Battle%20X.patch.toml"
+    },
+    {
+      "title_id": "475007D2",
+      "title": "Hail to the Chimp",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/475007D2%20-%20Hail%20to%20the%20Chimp.patch.toml"
+    },
+    {
+      "title_id": "475007D3",
+      "title": "Legendary",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/475007D3%20-%20Legendary.patch.toml"
+    },
+    {
+      "title_id": "475007D4",
+      "title": "Section 8 (TU1)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/475007D4%20-%20Section%208%20(TU1).patch.toml"
+    },
+    {
+      "title_id": "475007D4",
+      "title": "Section 8",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/475007D4%20-%20Section%208.patch.toml"
+    },
+    {
+      "title_id": "475807D1",
+      "title": "Lucha Libre AAA Heroes del Ring",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/475807D1%20-%20Lucha%20Libre%20AAA%20Heroes%20del%20Ring.patch.toml"
+    },
+    {
+      "title_id": "475807D7",
+      "title": "El Chavo Kart",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/475807D7%20-%20El%20Chavo%20Kart.patch.toml"
+    },
+    {
+      "title_id": "494F07D1",
+      "title": "El Shaddai",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/494F07D1%20-%20El%20Shaddai.patch.toml"
+    },
+    {
+      "title_id": "494F07D4",
+      "title": "Deadly Premonition",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/494F07D4%20-%20Deadly%20Premonition.patch.toml"
+    },
+    {
+      "title_id": "4B4D07DF",
+      "title": "Dead Island (GOTY)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4B4D07DF%20-%20Dead%20Island%20(GOTY).patch.toml"
+    },
+    {
+      "title_id": "4B4D07DF",
+      "title": "Dead Island (TU2)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4B4D07DF%20-%20Dead%20Island%20(TU2).patch.toml"
+    },
+    {
+      "title_id": "4B4D07DF",
+      "title": "Dead Island",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4B4D07DF%20-%20Dead%20Island.patch.toml"
+    },
+    {
+      "title_id": "4B4D07E9",
+      "title": "Ride to Hell Retribution",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4B4D07E9%20-%20Ride%20to%20Hell%20Retribution.patch.toml"
+    },
+    {
+      "title_id": "4B4D07EA",
+      "title": "Catherine (Europe)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4B4D07EA%20-%20Catherine%20(Europe).patch.toml"
+    },
+    {
+      "title_id": "4B4D07F2",
+      "title": "Dead Island Riptide (Complete Edition)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4B4D07F2%20-%20Dead%20Island%20Riptide%20(Complete%20Edition).patch.toml"
+    },
+    {
+      "title_id": "4B4D07F2",
+      "title": "Dead Island Riptide (TU2)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4B4D07F2%20-%20Dead%20Island%20Riptide%20(TU2).patch.toml"
+    },
+    {
+      "title_id": "4B4D07F2",
+      "title": "Dead Island Riptide",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4B4D07F2%20-%20Dead%20Island%20Riptide.patch.toml"
+    },
+    {
+      "title_id": "4B4E07D1",
+      "title": "Rumble Roses XX",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4B4E07D1%20-%20Rumble%20Roses%20XX.patch.toml"
+    },
+    {
+      "title_id": "4B4E07DA",
+      "title": "Pro Evolution Soccer 6 (TU3)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4B4E07DA%20-%20Pro%20Evolution%20Soccer%206%20(TU3).patch.toml"
+    },
+    {
+      "title_id": "4B4E07DA",
+      "title": "Pro Evolution Soccer 6",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4B4E07DA%20-%20Pro%20Evolution%20Soccer%206.patch.toml"
+    },
+    {
+      "title_id": "4B4E0802",
+      "title": "Saw",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4B4E0802%20-%20Saw.patch.toml"
+    },
+    {
+      "title_id": "4B4E0806",
+      "title": "Tornado Outbreak (Europe)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4B4E0806%20-%20Tornado%20Outbreak%20(Europe).patch.toml"
+    },
+    {
+      "title_id": "4B4E0806",
+      "title": "Tornado Outbreak",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4B4E0806%20-%20Tornado%20Outbreak.patch.toml"
+    },
+    {
+      "title_id": "4B4E081F",
+      "title": "NeverDead (TU1)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4B4E081F%20-%20NeverDead%20(TU1).patch.toml"
+    },
+    {
+      "title_id": "4B4E081F",
+      "title": "NeverDead",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4B4E081F%20-%20NeverDead.patch.toml"
+    },
+    {
+      "title_id": "4B4E0822",
+      "title": "Saw II Flesh & Blood",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4B4E0822%20-%20Saw%20II%20Flesh%20%26%20Blood.patch.toml"
+    },
+    {
+      "title_id": "4B4E0823",
+      "title": "Silent Hill Downpour (TU1)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4B4E0823%20-%20Silent%20Hill%20Downpour%20(TU1).patch.toml"
+    },
+    {
+      "title_id": "4B4E0823",
+      "title": "Silent Hill Downpour",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4B4E0823%20-%20Silent%20Hill%20Downpour.patch.toml"
+    },
+    {
+      "title_id": "4B4E0838",
+      "title": "Blades of Time",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4B4E0838%20-%20Blades%20of%20Time.patch.toml"
+    },
+    {
+      "title_id": "4B4E0839",
+      "title": "Birds of Steel",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4B4E0839%20-%20Birds%20of%20Steel.patch.toml"
+    },
+    {
+      "title_id": "4B4F07D7",
+      "title": "Fatal Inertia (TU1)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4B4F07D7%20-%20Fatal%20Inertia%20(TU1).patch.toml"
+    },
+    {
+      "title_id": "4B4F07D7",
+      "title": "Fatal Inertia",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4B4F07D7%20-%20Fatal%20Inertia.patch.toml"
+    },
+    {
+      "title_id": "4B5607E2",
+      "title": "Yaiba Ninja Gaiden Z",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4B5607E2%20-%20Yaiba%20Ninja%20Gaiden%20Z.patch.toml"
+    },
+    {
+      "title_id": "4B5607E8",
+      "title": "Dead or Alive 5 Ultimate",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4B5607E8%20-%20Dead%20or%20Alive%205%20Ultimate.patch.toml"
+    },
+    {
+      "title_id": "4C4107D7",
+      "title": "LEGO Star Wars The Complete Saga",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4C4107D7%20-%20LEGO%20Star%20Wars%20The%20Complete%20Saga.patch.toml"
+    },
+    {
+      "title_id": "4C4107F3",
+      "title": "LEGO Star Wars III The Clone Wars",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4C4107F3%20-%20LEGO%20Star%20Wars%20III%20The%20Clone%20Wars.patch.toml"
+    },
+    {
+      "title_id": "4D4A07D5",
+      "title": "Night at the Museum Battle of the Smithsonian",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D4A07D5%20-%20Night%20at%20the%20Museum%20Battle%20of%20the%20Smithsonian.patch.toml"
+    },
+    {
+      "title_id": "4D4B07D6",
+      "title": "Carrier Command Gaea Mission (Europe)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D4B07D6%20-%20Carrier%20Command%20Gaea%20Mission%20(Europe).patch.toml"
+    },
+    {
+      "title_id": "4D5307D1",
+      "title": "Project Gotham Racing 3 (v10.0 or higher)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D5307D1%20-%20Project%20Gotham%20Racing%203%20(v10.0%20or%20higher).patch.toml"
+    },
+    {
+      "title_id": "4D5307D1",
+      "title": "Project Gotham Racing 3 (v9.0 or lower)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D5307D1%20-%20Project%20Gotham%20Racing%203%20(v9.0%20or%20lower).patch.toml"
+    },
+    {
+      "title_id": "4D5307D2",
+      "title": "Kameo Elements of Power (TU2)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D5307D2%20-%20Kameo%20Elements%20of%20Power%20(TU2).patch.toml"
+    },
+    {
+      "title_id": "4D5307D2",
+      "title": "Kameo Elements of Power",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D5307D2%20-%20Kameo%20Elements%20of%20Power.patch.toml"
+    },
+    {
+      "title_id": "4D5307D3",
+      "title": "Perfect Dark Zero (Platinum Hits)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D5307D3%20-%20Perfect%20Dark%20Zero%20(Platinum%20Hits).patch.toml"
+    },
+    {
+      "title_id": "4D5307D3",
+      "title": "Perfect Dark Zero (TU3)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D5307D3%20-%20Perfect%20Dark%20Zero%20(TU3).patch.toml"
+    },
+    {
+      "title_id": "4D5307D3",
+      "title": "Perfect Dark Zero",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D5307D3%20-%20Perfect%20Dark%20Zero.patch.toml"
+    },
+    {
+      "title_id": "4D5307D5",
+      "title": "Gears of War (Japan)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D5307D5%20-%20Gears%20of%20War%20(Japan).patch.toml"
+    },
+    {
+      "title_id": "4D5307D5",
+      "title": "Gears of War (TU5)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D5307D5%20-%20Gears%20of%20War%20(TU5).patch.toml"
+    },
+    {
+      "title_id": "4D5307D5",
+      "title": "Gears of War",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D5307D5%20-%20Gears%20of%20War.patch.toml"
+    },
+    {
+      "title_id": "4D5307DC",
+      "title": "Crackdown (TU0)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D5307DC%20-%20Crackdown%20(TU0).patch.toml"
+    },
+    {
+      "title_id": "4D5307DC",
+      "title": "Crackdown (TU2)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D5307DC%20-%20Crackdown%20(TU2).patch.toml"
+    },
+    {
+      "title_id": "4D5307DF",
+      "title": "Blue Dragon",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D5307DF%20-%20Blue%20Dragon.patch.toml"
+    },
+    {
+      "title_id": "4D5307DF",
+      "title": "ブルードラゴン",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D5307DF%20-%20%E3%83%96%E3%83%AB%E3%83%BC%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3.patch.toml"
+    },
+    {
+      "title_id": "4D5307E6",
+      "title": "Halo 3",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D5307E6%20-%20Halo%203.patch.toml"
+    },
+    {
+      "title_id": "4D5307E8",
+      "title": "Mass Effect (Japan)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D5307E8%20-%20Mass%20Effect%20(Japan).patch.toml"
+    },
+    {
+      "title_id": "4D5307E8",
+      "title": "Mass Effect (USA Rev 1)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D5307E8%20-%20Mass%20Effect%20(USA%20Rev%201).patch.toml"
+    },
+    {
+      "title_id": "4D5307E8",
+      "title": "Mass Effect",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D5307E8%20-%20Mass%20Effect.patch.toml"
+    },
+    {
+      "title_id": "4D5307EA",
+      "title": "Forza Motorsport 2 (TU4)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D5307EA%20-%20Forza%20Motorsport%202%20(TU4).patch.toml"
+    },
+    {
+      "title_id": "4D5307EA",
+      "title": "Forza Motorsport 2",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D5307EA%20-%20Forza%20Motorsport%202.patch.toml"
+    },
+    {
+      "title_id": "4D5307ED",
+      "title": "Banjo-Kazooie Nuts & Bolts (Sep 18, 2008 Prototype)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D5307ED%20-%20Banjo-Kazooie%20Nuts%20%26%20Bolts%20(Sep%2018%2C%202008%20Prototype).patch.toml"
+    },
+    {
+      "title_id": "4D5307ED",
+      "title": "Banjo-Kazooie Nuts & Bolts (TU3)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D5307ED%20-%20Banjo-Kazooie%20Nuts%20%26%20Bolts%20(TU3).patch.toml"
+    },
+    {
+      "title_id": "4D5307ED",
+      "title": "Banjo-Kazooie Nuts & Bolts",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D5307ED%20-%20Banjo-Kazooie%20Nuts%20%26%20Bolts.patch.toml"
+    },
+    {
+      "title_id": "4D5307F1",
+      "title": "Fable II (1)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D5307F1%20-%20Fable%20II%20(1).patch.toml"
+    },
+    {
+      "title_id": "4D5307F1",
+      "title": "Fable II (2)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D5307F1%20-%20Fable%20II%20(2).patch.toml"
+    },
+    {
+      "title_id": "4D5307F1",
+      "title": "Fable II (GOTY_Platinum Edition)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D5307F1%20-%20Fable%20II%20(GOTY_Platinum%20Edition).patch.toml"
+    },
+    {
+      "title_id": "4D5307F1",
+      "title": "Fable II (GOTY_Platinum Edition, TU1)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D5307F1%20-%20Fable%20II%20(GOTY_Platinum%20Edition%2C%20TU1).patch.toml"
+    },
+    {
+      "title_id": "4D5307F2",
+      "title": "Viva Piñata",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D5307F2%20-%20Viva%20Pi%C3%B1ata.patch.toml"
+    },
+    {
+      "title_id": "4D5307F9",
+      "title": "Project Gotham Racing 4 (TU2)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D5307F9%20-%20Project%20Gotham%20Racing%204%20(TU2).patch.toml"
+    },
+    {
+      "title_id": "4D5307F9",
+      "title": "Project Gotham Racing 4",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D5307F9%20-%20Project%20Gotham%20Racing%204.patch.toml"
+    },
+    {
+      "title_id": "4D5307FA",
+      "title": "Lost Odyssey (NTSC-J)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D5307FA%20-%20Lost%20Odyssey%20(NTSC-J).patch.toml"
+    },
+    {
+      "title_id": "4D5307FA",
+      "title": "Lost Odyssey",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D5307FA%20-%20Lost%20Odyssey.patch.toml"
+    },
+    {
+      "title_id": "4D530805",
+      "title": "Alan Wake",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D530805%20-%20Alan%20Wake.patch.toml"
+    },
+    {
+      "title_id": "4D53082D",
+      "title": "Gears of War 2 (TU6)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D53082D%20-%20Gears%20of%20War%202%20(TU6).patch.toml"
+    },
+    {
+      "title_id": "4D53082D",
+      "title": "Gears of War 2",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D53082D%20-%20Gears%20of%20War%202.patch.toml"
+    },
+    {
+      "title_id": "4D53084D",
+      "title": "Forza Motorsport 3 Ultimate Collection",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D53084D%20-%20Forza%20Motorsport%203%20Ultimate%20Collection.patch.toml"
+    },
+    {
+      "title_id": "4D53084D",
+      "title": "Forza Motorsport 3",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D53084D%20-%20Forza%20Motorsport%203.patch.toml"
+    },
+    {
+      "title_id": "4D53085B",
+      "title": "Halo Reach (TU1)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D53085B%20-%20Halo%20Reach%20(TU1).patch.toml"
+    },
+    {
+      "title_id": "4D53085B",
+      "title": "Halo Reach",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D53085B%20-%20Halo%20Reach.patch.toml"
+    },
+    {
+      "title_id": "4D53085F",
+      "title": "Viva Piñata Trouble in Paradise (TU1)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D53085F%20-%20Viva%20Pi%C3%B1ata%20Trouble%20in%20Paradise%20(TU1).patch.toml"
+    },
+    {
+      "title_id": "4D53085F",
+      "title": "Viva Piñata Trouble in Paradise",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D53085F%20-%20Viva%20Pi%C3%B1ata%20Trouble%20in%20Paradise.patch.toml"
+    },
+    {
+      "title_id": "4D530877",
+      "title": "Halo 3 ODST",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D530877%20-%20Halo%203%20ODST.patch.toml"
+    },
+    {
+      "title_id": "4D5308AB",
+      "title": "Gears of War 3 (TU6 Disc; TU1 XBL)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D5308AB%20-%20Gears%20of%20War%203%20(TU6%20Disc%3B%20TU1%20XBL).patch.toml"
+    },
+    {
+      "title_id": "4D5308AB",
+      "title": "Gears of War 3",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D5308AB%20-%20Gears%20of%20War%203.patch.toml"
+    },
+    {
+      "title_id": "4D5308BC",
+      "title": "Crackdown 2 (TU0)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D5308BC%20-%20Crackdown%202%20(TU0).patch.toml"
+    },
+    {
+      "title_id": "4D5308BC",
+      "title": "Crackdown 2 (TU5)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D5308BC%20-%20Crackdown%202%20(TU5).patch.toml"
+    },
+    {
+      "title_id": "4D5308C8",
+      "title": "Gears of War 2 (Japan)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D5308C8%20-%20Gears%20of%20War%202%20(Japan).patch.toml"
+    },
+    {
+      "title_id": "4D53090E",
+      "title": "Kinect Star Wars",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D53090E%20-%20Kinect%20Star%20Wars.patch.toml"
+    },
+    {
+      "title_id": "4D530910",
+      "title": "Forza Motorsport 4",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D530910%20-%20Forza%20Motorsport%204.patch.toml"
+    },
+    {
+      "title_id": "4D530919",
+      "title": "Halo 4 (TU10)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D530919%20-%20Halo%204%20(TU10).patch.toml"
+    },
+    {
+      "title_id": "4D530919",
+      "title": "Halo 4",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D530919%20-%20Halo%204.patch.toml"
+    },
+    {
+      "title_id": "4D5309B1",
+      "title": "Halo Combat Evolved Anniversary",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D5309B1%20-%20Halo%20Combat%20Evolved%20Anniversary.patch.toml"
+    },
+    {
+      "title_id": "4D5309C9",
+      "title": "Forza Horizon (E3 Demo)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D5309C9%20-%20Forza%20Horizon%20(E3%20Demo).patch.toml"
+    },
+    {
+      "title_id": "4D5309C9",
+      "title": "Forza Horizon (TU4)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D5309C9%20-%20Forza%20Horizon%20(TU4).patch.toml"
+    },
+    {
+      "title_id": "4D5309C9",
+      "title": "Forza Horizon",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D5309C9%20-%20Forza%20Horizon.patch.toml"
+    },
+    {
+      "title_id": "4D530A26",
+      "title": "Gears of War Judgment (TU4)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D530A26%20-%20Gears%20of%20War%20Judgment%20(TU4).patch.toml"
+    },
+    {
+      "title_id": "4D530A26",
+      "title": "Gears of War Judgment",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D530A26%20-%20Gears%20of%20War%20Judgment.patch.toml"
+    },
+    {
+      "title_id": "4D530A87",
+      "title": "Fable Anniversary (TU5)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D530A87%20-%20Fable%20Anniversary%20(TU5).patch.toml"
+    },
+    {
+      "title_id": "4D530A87",
+      "title": "Fable Anniversary",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D530A87%20-%20Fable%20Anniversary.patch.toml"
+    },
+    {
+      "title_id": "4D530AA4",
+      "title": "Forza Horizon 2 (May 4, 2014 Prototype)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D530AA4%20-%20Forza%20Horizon%202%20(May%204%2C%202014%20Prototype).patch.toml"
+    },
+    {
+      "title_id": "4D530AA4",
+      "title": "Forza Horizon 2 (TU2)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D530AA4%20-%20Forza%20Horizon%202%20(TU2).patch.toml"
+    },
+    {
+      "title_id": "4D530AA4",
+      "title": "Forza Horizon 2",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D530AA4%20-%20Forza%20Horizon%202.patch.toml"
+    },
+    {
+      "title_id": "4D530AB5",
+      "title": "Forza Horizon 2 Presents Fast & Furious (TU1)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D530AB5%20-%20Forza%20Horizon%202%20Presents%20Fast%20%26%20Furious%20(TU1).patch.toml"
+    },
+    {
+      "title_id": "4D530AB5",
+      "title": "Forza Horizon 2 Presents Fast & Furious",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D530AB5%20-%20Forza%20Horizon%202%20Presents%20Fast%20%26%20Furious.patch.toml"
+    },
+    {
+      "title_id": "4D5387E0",
+      "title": "Kameo Elements of Power (kiosk demo)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D5387E0%20-%20Kameo%20Elements%20of%20Power%20(kiosk%20demo).patch.toml"
+    },
+    {
+      "title_id": "4D5387E9",
+      "title": "Kameo Elements of Power (demo)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D5387E9%20-%20Kameo%20Elements%20of%20Power%20(demo).patch.toml"
+    },
+    {
+      "title_id": "4D538803",
+      "title": "Pocketbike Racer",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D538803%20-%20Pocketbike%20Racer.patch.toml"
+    },
+    {
+      "title_id": "4D53880C",
+      "title": "Halo 3 Alpha",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D53880C%20-%20Halo%203%20Alpha.patch.toml"
+    },
+    {
+      "title_id": "4D53883A",
+      "title": "Halo 3 Epsilon (Aug 20th)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D53883A%20-%20Halo%203%20Epsilon%20(Aug%2020th).patch.toml"
+    },
+    {
+      "title_id": "4D5388BF",
+      "title": "Crackdown 2 Demo",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D5388BF%20-%20Crackdown%202%20Demo.patch.toml"
+    },
+    {
+      "title_id": "4D5607D1",
+      "title": "Deadly Premonition (PAL)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D5607D1%20-%20Deadly%20Premonition%20(PAL).patch.toml"
+    },
+    {
+      "title_id": "4D5707D7",
+      "title": "Blacksite",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D5707D7%20-%20Blacksite.patch.toml"
+    },
+    {
+      "title_id": "4D5707D9",
+      "title": "Hour of Victory",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D5707D9%20-%20Hour%20of%20Victory.patch.toml"
+    },
+    {
+      "title_id": "4D5707DB",
+      "title": "Unreal Tournament 3",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D5707DB%20-%20Unreal%20Tournament%203.patch.toml"
+    },
+    {
+      "title_id": "4D5707DF",
+      "title": "TNA Impact (TU1)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4D5707DF%20-%20TNA%20Impact%20(TU1).patch.toml"
+    },
+    {
+      "title_id": "4E4D07D3",
+      "title": "Ridge Racer 6",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4E4D07D3%20-%20Ridge%20Racer%206.patch.toml"
+    },
+    {
+      "title_id": "4E4D07E4",
+      "title": "Eternal Sonata",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4E4D07E4%20-%20Eternal%20Sonata.patch.toml"
+    },
+    {
+      "title_id": "4E4D07F0",
+      "title": "Splatterhouse",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4E4D07F0%20-%20Splatterhouse.patch.toml"
+    },
+    {
+      "title_id": "4E4D07F1",
+      "title": "Enslaved Odyssey to the West (TU1)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4E4D07F1%20-%20Enslaved%20Odyssey%20to%20the%20West%20(TU1).patch.toml"
+    },
+    {
+      "title_id": "4E4D07F1",
+      "title": "Enslaved Odyssey to the West",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4E4D07F1%20-%20Enslaved%20Odyssey%20to%20the%20West.patch.toml"
+    },
+    {
+      "title_id": "4E4D080B",
+      "title": "Magnacarta2",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4E4D080B%20-%20Magnacarta2.patch.toml"
+    },
+    {
+      "title_id": "4E4D083D",
+      "title": "SOULCALIBUR V (TU0)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4E4D083D%20-%20SOULCALIBUR%20V%20(TU0).patch.toml"
+    },
+    {
+      "title_id": "4E4D083D",
+      "title": "SOULCALIBUR V (TU1)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4E4D083D%20-%20SOULCALIBUR%20V%20(TU1).patch.toml"
+    },
+    {
+      "title_id": "4E4D0859",
+      "title": "TEKKEN TAG 2 (TU0)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4E4D0859%20-%20TEKKEN%20TAG%202%20(TU0).patch.toml"
+    },
+    {
+      "title_id": "4E4D0859",
+      "title": "TEKKEN TAG 2 (TU1)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4E4D0859%20-%20TEKKEN%20TAG%202%20(TU1).patch.toml"
+    },
+    {
+      "title_id": "4E4D085B",
+      "title": "Star Trek",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/4E4D085B%20-%20Star%20Trek.patch.toml"
+    },
+    {
+      "title_id": "504307D1",
+      "title": "Fairytale Fights (TU1)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/504307D1%20-%20Fairytale%20Fights%20(TU1).patch.toml"
+    },
+    {
+      "title_id": "504307D1",
+      "title": "Fairytale Fights",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/504307D1%20-%20Fairytale%20Fights.patch.toml"
+    },
+    {
+      "title_id": "534307D5",
+      "title": "Just Cause",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/534307D5%20-%20Just%20Cause.patch.toml"
+    },
+    {
+      "title_id": "534307E2",
+      "title": "Bionicle Heroes",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/534307E2%20-%20Bionicle%20Heroes.patch.toml"
+    },
+    {
+      "title_id": "534307F6",
+      "title": "Batman Arkham Asylum",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/534307F6%20-%20Batman%20Arkham%20Asylum.patch.toml"
+    },
+    {
+      "title_id": "5343080B",
+      "title": "Batman Arkham Asylum GOTY",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/5343080B%20-%20Batman%20Arkham%20Asylum%20GOTY.patch.toml"
+    },
+    {
+      "title_id": "534507D2",
+      "title": "Condemned",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/534507D2%20-%20Condemned.patch.toml"
+    },
+    {
+      "title_id": "534507D4",
+      "title": "Chromehounds (prototype)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/534507D4%20-%20Chromehounds%20(prototype).patch.toml"
+    },
+    {
+      "title_id": "534507D4",
+      "title": "Syndicate",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/534507D4%20-%20Syndicate.patch.toml"
+    },
+    {
+      "title_id": "534507D6",
+      "title": "Sonic the Hedgehog (2006)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/534507D6%20-%20Sonic%20the%20Hedgehog%20(2006).patch.toml"
+    },
+    {
+      "title_id": "534507E0",
+      "title": "Viking Battle for Asgard",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/534507E0%20-%20Viking%20Battle%20for%20Asgard.patch.toml"
+    },
+    {
+      "title_id": "5345080C",
+      "title": "Aliens Colonial Marines (TU6)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/5345080C%20-%20Aliens%20Colonial%20Marines%20(TU6).patch.toml"
+    },
+    {
+      "title_id": "5345080C",
+      "title": "Aliens Colonial Marines",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/5345080C%20-%20Aliens%20Colonial%20Marines.patch.toml"
+    },
+    {
+      "title_id": "5345080E",
+      "title": "Alpha Protocol",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/5345080E%20-%20Alpha%20Protocol.patch.toml"
+    },
+    {
+      "title_id": "53450812",
+      "title": "Sonic Unleashed (TU2)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/53450812%20-%20Sonic%20Unleashed%20(TU2).patch.toml"
+    },
+    {
+      "title_id": "53450812",
+      "title": "Sonic Unleashed",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/53450812%20-%20Sonic%20Unleashed.patch.toml"
+    },
+    {
+      "title_id": "53450813",
+      "title": "Bayonetta",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/53450813%20-%20Bayonetta.patch.toml"
+    },
+    {
+      "title_id": "5345082A",
+      "title": "Aliens vs. Predator (TU3)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/5345082A%20-%20Aliens%20vs.%20Predator%20(TU3).patch.toml"
+    },
+    {
+      "title_id": "5345082A",
+      "title": "Aliens vs. Predator",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/5345082A%20-%20Aliens%20vs.%20Predator.patch.toml"
+    },
+    {
+      "title_id": "5345082B",
+      "title": "Planet 51 The Game",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/5345082B%20-%20Planet%2051%20The%20Game.patch.toml"
+    },
+    {
+      "title_id": "53450845",
+      "title": "Thor God of Thunder",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/53450845%20-%20Thor%20God%20of%20Thunder.patch.toml"
+    },
+    {
+      "title_id": "53450848",
+      "title": "Sonic Generations (TU2)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/53450848%20-%20Sonic%20Generations%20(TU2).patch.toml"
+    },
+    {
+      "title_id": "53450848",
+      "title": "Sonic Generations",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/53450848%20-%20Sonic%20Generations.patch.toml"
+    },
+    {
+      "title_id": "5345085A",
+      "title": "Dreamcast Collection",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/5345085A%20-%20Dreamcast%20Collection.patch.toml"
+    },
+    {
+      "title_id": "5345085D",
+      "title": "Sonic & All-Stars Racing Transformed",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/5345085D%20-%20Sonic%20%26%20All-Stars%20Racing%20Transformed.patch.toml"
+    },
+    {
+      "title_id": "5345085E",
+      "title": "Alien Isolation (TU2)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/5345085E%20-%20Alien%20Isolation%20(TU2).patch.toml"
+    },
+    {
+      "title_id": "5345085E",
+      "title": "Alien Isolation",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/5345085E%20-%20Alien%20Isolation.patch.toml"
+    },
+    {
+      "title_id": "535107DA",
+      "title": "The Last Remnant",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/535107DA%20-%20The%20Last%20Remnant.patch.toml"
+    },
+    {
+      "title_id": "535107E4",
+      "title": "Final Fantasy XIII",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/535107E4%20-%20Final%20Fantasy%20XIII.patch.toml"
+    },
+    {
+      "title_id": "535107E8",
+      "title": "Nier",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/535107E8%20-%20Nier.patch.toml"
+    },
+    {
+      "title_id": "535107FA",
+      "title": "Deus Ex Human Revolution Director's Cut",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/535107FA%20-%20Deus%20Ex%20Human%20Revolution%20Director's%20Cut.patch.toml"
+    },
+    {
+      "title_id": "53510802",
+      "title": "Tomb Raider (TU3)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/53510802%20-%20Tomb%20Raider%20(TU3).patch.toml"
+    },
+    {
+      "title_id": "53510802",
+      "title": "Tomb Raider",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/53510802%20-%20Tomb%20Raider.patch.toml"
+    },
+    {
+      "title_id": "53510803",
+      "title": "Thief (TU2)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/53510803%20-%20Thief%20(TU2).patch.toml"
+    },
+    {
+      "title_id": "53510803",
+      "title": "Thief",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/53510803%20-%20Thief.patch.toml"
+    },
+    {
+      "title_id": "53510806",
+      "title": "Final Fantasy XIII-2",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/53510806%20-%20Final%20Fantasy%20XIII-2.patch.toml"
+    },
+    {
+      "title_id": "5351081E",
+      "title": "Murdered Soul Suspect (TU1)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/5351081E%20-%20Murdered%20Soul%20Suspect%20(TU1).patch.toml"
+    },
+    {
+      "title_id": "5351081E",
+      "title": "Murdered Soul Suspect",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/5351081E%20-%20Murdered%20Soul%20Suspect.patch.toml"
+    },
+    {
+      "title_id": "53518810",
+      "title": "Final Fantasy XIII-2 Demo",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/53518810%20-%20Final%20Fantasy%20XIII-2%20Demo.patch.toml"
+    },
+    {
+      "title_id": "544307D1",
+      "title": "DEAD OR ALIVE 4 (PROTOTYPE)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/544307D1%20-%20DEAD%20OR%20ALIVE%204%20(PROTOTYPE).patch.toml"
+    },
+    {
+      "title_id": "544307D1",
+      "title": "DEAD OR ALIVE 4 (Rev1)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/544307D1%20-%20DEAD%20OR%20ALIVE%204%20(Rev1).patch.toml"
+    },
+    {
+      "title_id": "544307D1",
+      "title": "DEAD OR ALIVE 4 (TU1)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/544307D1%20-%20DEAD%20OR%20ALIVE%204%20(TU1).patch.toml"
+    },
+    {
+      "title_id": "544307D1",
+      "title": "DEAD OR ALIVE 4",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/544307D1%20-%20DEAD%20OR%20ALIVE%204.patch.toml"
+    },
+    {
+      "title_id": "544307D5",
+      "title": "Ninja Gaiden II (Japan, TU3)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/544307D5%20-%20Ninja%20Gaiden%20II%20(Japan%2C%20TU3).patch.toml"
+    },
+    {
+      "title_id": "544307D5",
+      "title": "Ninja Gaiden II (World)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/544307D5%20-%20Ninja%20Gaiden%20II%20(World).patch.toml"
+    },
+    {
+      "title_id": "544307D5",
+      "title": "Ninja Gaiden II (World, TU2)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/544307D5%20-%20Ninja%20Gaiden%20II%20(World%2C%20TU2).patch.toml"
+    },
+    {
+      "title_id": "545107D1",
+      "title": "Saints Row (TU1)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/545107D1%20-%20Saints%20Row%20(TU1).patch.toml"
+    },
+    {
+      "title_id": "545107D1",
+      "title": "Saints Row",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/545107D1%20-%20Saints%20Row.patch.toml"
+    },
+    {
+      "title_id": "545107EA",
+      "title": "Disney-Pixar Cars (Europe) (De,Fr) (TU1)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/545107EA%20-%20Disney-Pixar%20Cars%20(Europe)%20(De%2CFr)%20(TU1).patch.toml"
+    },
+    {
+      "title_id": "545107EA",
+      "title": "Disney-Pixar Cars (Europe) (De,Fr)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/545107EA%20-%20Disney-Pixar%20Cars%20(Europe)%20(De%2CFr).patch.toml"
+    },
+    {
+      "title_id": "545107EA",
+      "title": "Disney-Pixar Cars (Europe) (En,Es,It) (TU1)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/545107EA%20-%20Disney-Pixar%20Cars%20(Europe)%20(En%2CEs%2CIt)%20(TU1).patch.toml"
+    },
+    {
+      "title_id": "545107EA",
+      "title": "Disney-Pixar Cars (Europe) (En,Es,It)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/545107EA%20-%20Disney-Pixar%20Cars%20(Europe)%20(En%2CEs%2CIt).patch.toml"
+    },
+    {
+      "title_id": "545107EA",
+      "title": "Disney-Pixar Cars (USA)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/545107EA%20-%20Disney-Pixar%20Cars%20(USA).patch.toml"
+    },
+    {
+      "title_id": "545107F1",
+      "title": "Ratatouille",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/545107F1%20-%20Ratatouille.patch.toml"
+    },
+    {
+      "title_id": "545107F8",
+      "title": "Saints Row (Japan)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/545107F8%20-%20Saints%20Row%20(Japan).patch.toml"
+    },
+    {
+      "title_id": "545107FC",
+      "title": "Saints Row 2 (TU3)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/545107FC%20-%20Saints%20Row%202%20(TU3).patch.toml"
+    },
+    {
+      "title_id": "545107FC",
+      "title": "Saints Row 2",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/545107FC%20-%20Saints%20Row%202.patch.toml"
+    },
+    {
+      "title_id": "545107FE",
+      "title": "DAH Path of the Furon",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/545107FE%20-%20DAH%20Path%20of%20the%20Furon.patch.toml"
+    },
+    {
+      "title_id": "5451083B",
+      "title": "50 Cent Blood on the Sand",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/5451083B%20-%2050%20Cent%20Blood%20on%20the%20Sand.patch.toml"
+    },
+    {
+      "title_id": "54510846",
+      "title": "Homefront (TU4)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/54510846%20-%20Homefront%20(TU4).patch.toml"
+    },
+    {
+      "title_id": "54510846",
+      "title": "Homefront",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/54510846%20-%20Homefront.patch.toml"
+    },
+    {
+      "title_id": "54510850",
+      "title": "SpongeBob - Truth or Square",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/54510850%20-%20SpongeBob%20-%20Truth%20or%20Square.patch.toml"
+    },
+    {
+      "title_id": "54510865",
+      "title": "de Blob 2",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/54510865%20-%20de%20Blob%202.patch.toml"
+    },
+    {
+      "title_id": "54510866",
+      "title": "WWE All Stars",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/54510866%20-%20WWE%20All%20Stars.patch.toml"
+    },
+    {
+      "title_id": "5451087D",
+      "title": "UFC Undisputed 3",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/5451087D%20-%20UFC%20Undisputed%203.patch.toml"
+    },
+    {
+      "title_id": "545407D4",
+      "title": "Amped 3",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/545407D4%20-%20Amped%203.patch.toml"
+    },
+    {
+      "title_id": "545407DD",
+      "title": "The Bureau XCOM Declassified (TU1)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/545407DD%20-%20The%20Bureau%20XCOM%20Declassified%20(TU1).patch.toml"
+    },
+    {
+      "title_id": "545407DD",
+      "title": "The Bureau XCOM Declassified",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/545407DD%20-%20The%20Bureau%20XCOM%20Declassified.patch.toml"
+    },
+    {
+      "title_id": "545407DF",
+      "title": "Table Tennis",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/545407DF%20-%20Table%20Tennis.patch.toml"
+    },
+    {
+      "title_id": "545407E0",
+      "title": "Prey (TU1)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/545407E0%20-%20Prey%20(TU1).patch.toml"
+    },
+    {
+      "title_id": "545407E0",
+      "title": "Prey",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/545407E0%20-%20Prey.patch.toml"
+    },
+    {
+      "title_id": "545407E4",
+      "title": "The Bigs",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/545407E4%20-%20The%20Bigs.patch.toml"
+    },
+    {
+      "title_id": "545407E7",
+      "title": "Borderlands (TU5)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/545407E7%20-%20Borderlands%20(TU5).patch.toml"
+    },
+    {
+      "title_id": "545407E7",
+      "title": "Borderlands",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/545407E7%20-%20Borderlands.patch.toml"
+    },
+    {
+      "title_id": "545407EE",
+      "title": "The Darkness",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/545407EE%20-%20The%20Darkness.patch.toml"
+    },
+    {
+      "title_id": "545407F2",
+      "title": "Grand Theft Auto IV (TU8)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/545407F2%20-%20Grand%20Theft%20Auto%20IV%20(TU8).patch.toml"
+    },
+    {
+      "title_id": "545407F2",
+      "title": "Grand Theft Auto IV",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/545407F2%20-%20Grand%20Theft%20Auto%20IV.patch.toml"
+    },
+    {
+      "title_id": "545407F8",
+      "title": "Midnight Club Los Angeles (Complete Edition)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/545407F8%20-%20Midnight%20Club%20Los%20Angeles%20(Complete%20Edition).patch.toml"
+    },
+    {
+      "title_id": "545407F8",
+      "title": "Midnight Club Los Angeles",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/545407F8%20-%20Midnight%20Club%20Los%20Angeles.patch.toml"
+    },
+    {
+      "title_id": "5454082B",
+      "title": "Red Dead Redemption (GOTY, Disc 1)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/5454082B%20-%20Red%20Dead%20Redemption%20(GOTY%2C%20Disc%201).patch.toml"
+    },
+    {
+      "title_id": "5454082B",
+      "title": "Red Dead Redemption (GOTY, Disc 2)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/5454082B%20-%20Red%20Dead%20Redemption%20(GOTY%2C%20Disc%202).patch.toml"
+    },
+    {
+      "title_id": "5454082B",
+      "title": "Red Dead Redemption (Original, NTSC)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/5454082B%20-%20Red%20Dead%20Redemption%20(Original%2C%20NTSC).patch.toml"
+    },
+    {
+      "title_id": "5454082B",
+      "title": "Red Dead Redemption (Original, NTSC, TU9)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/5454082B%20-%20Red%20Dead%20Redemption%20(Original%2C%20NTSC%2C%20TU9).patch.toml"
+    },
+    {
+      "title_id": "5454082B",
+      "title": "Red Dead Redemption-Undead Nightmare (Platinum Hits)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/5454082B%20-%20Red%20Dead%20Redemption-Undead%20Nightmare%20(Platinum%20Hits).patch.toml"
+    },
+    {
+      "title_id": "54540830",
+      "title": "The Bigs 2",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/54540830%20-%20The%20Bigs%202.patch.toml"
+    },
+    {
+      "title_id": "54540843",
+      "title": "Spec Ops The Line (TU2)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/54540843%20-%20Spec%20Ops%20The%20Line%20(TU2).patch.toml"
+    },
+    {
+      "title_id": "54540843",
+      "title": "Spec Ops The Line",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/54540843%20-%20Spec%20Ops%20The%20Line.patch.toml"
+    },
+    {
+      "title_id": "5454085D",
+      "title": "Bioshock Infinite (TU7)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/5454085D%20-%20Bioshock%20Infinite%20(TU7).patch.toml"
+    },
+    {
+      "title_id": "5454085D",
+      "title": "Bioshock Infinite",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/5454085D%20-%20Bioshock%20Infinite.patch.toml"
+    },
+    {
+      "title_id": "5454087C",
+      "title": "Borderlands 2 (TU14)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/5454087C%20-%20Borderlands%202%20(TU14).patch.toml"
+    },
+    {
+      "title_id": "5454087C",
+      "title": "Borderlands 2",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/5454087C%20-%20Borderlands%202.patch.toml"
+    },
+    {
+      "title_id": "54540882",
+      "title": "XCOM Enemy Unknown (TU1)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/54540882%20-%20XCOM%20Enemy%20Unknown%20(TU1).patch.toml"
+    },
+    {
+      "title_id": "54540882",
+      "title": "XCOM Enemy Unknown (TU2)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/54540882%20-%20XCOM%20Enemy%20Unknown%20(TU2).patch.toml"
+    },
+    {
+      "title_id": "54540882",
+      "title": "XCOM Enemy Unknown",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/54540882%20-%20XCOM%20Enemy%20Unknown.patch.toml"
+    },
+    {
+      "title_id": "5454088D",
+      "title": "The Darkness II (TU2)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/5454088D%20-%20The%20Darkness%20II%20(TU2).patch.toml"
+    },
+    {
+      "title_id": "5454088D",
+      "title": "The Darkness II",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/5454088D%20-%20The%20Darkness%20II.patch.toml"
+    },
+    {
+      "title_id": "545408A7",
+      "title": "Grand Theft Auto V (TU10)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/545408A7%20-%20Grand%20Theft%20Auto%20V%20(TU10).patch.toml"
+    },
+    {
+      "title_id": "545408A7",
+      "title": "Grand Theft Auto V (TU18)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/545408A7%20-%20Grand%20Theft%20Auto%20V%20(TU18).patch.toml"
+    },
+    {
+      "title_id": "545408A7",
+      "title": "Grand Theft Auto V (TU26)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/545408A7%20-%20Grand%20Theft%20Auto%20V%20(TU26).patch.toml"
+    },
+    {
+      "title_id": "545408A7",
+      "title": "Grand Theft Auto V (TU27)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/545408A7%20-%20Grand%20Theft%20Auto%20V%20(TU27).patch.toml"
+    },
+    {
+      "title_id": "545408AE",
+      "title": "XCOM Enemy Within (TU1)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/545408AE%20-%20XCOM%20Enemy%20Within%20(TU1).patch.toml"
+    },
+    {
+      "title_id": "545408AE",
+      "title": "XCOM Enemy Within",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/545408AE%20-%20XCOM%20Enemy%20Within.patch.toml"
+    },
+    {
+      "title_id": "545408B4",
+      "title": "Borderlands The Pre-Sequel! (TU9)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/545408B4%20-%20Borderlands%20The%20Pre-Sequel!%20(TU9).patch.toml"
+    },
+    {
+      "title_id": "545408B4",
+      "title": "Borderlands The Pre-Sequel!",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/545408B4%20-%20Borderlands%20The%20Pre-Sequel!.patch.toml"
+    },
+    {
+      "title_id": "545A07D5",
+      "title": "Carrier Command Gaea Mission (USA)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/545A07D5%20-%20Carrier%20Command%20Gaea%20Mission%20(USA).patch.toml"
+    },
+    {
+      "title_id": "555307D4",
+      "title": "Assassin's Creed",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/555307D4%20-%20Assassin's%20Creed.patch.toml"
+    },
+    {
+      "title_id": "555307DC",
+      "title": "Far Cry Instincts Predator",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/555307DC%20-%20Far%20Cry%20Instincts%20Predator.patch.toml"
+    },
+    {
+      "title_id": "555307E5",
+      "title": "Naruto Rise of a Ninja",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/555307E5%20-%20Naruto%20Rise%20of%20a%20Ninja.patch.toml"
+    },
+    {
+      "title_id": "555307EA",
+      "title": "Brothers in Arms Hell's Highway",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/555307EA%20-%20Brothers%20in%20Arms%20Hell's%20Highway.patch.toml"
+    },
+    {
+      "title_id": "555307EE",
+      "title": "Import Tuner Challange",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/555307EE%20-%20Import%20Tuner%20Challange.patch.toml"
+    },
+    {
+      "title_id": "5553083B",
+      "title": "Assassin's Creed II (GOTY)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/5553083B%20-%20Assassin's%20Creed%20II%20(GOTY).patch.toml"
+    },
+    {
+      "title_id": "5553088C",
+      "title": "Far Cry 3",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/5553088C%20-%20Far%20Cry%203.patch.toml"
+    },
+    {
+      "title_id": "555308BD",
+      "title": "The Smurfs 2",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/555308BD%20-%20The%20Smurfs%202.patch.toml"
+    },
+    {
+      "title_id": "565507D4",
+      "title": "The Bourne Conspiracy",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/565507D4%20-%20The%20Bourne%20Conspiracy.patch.toml"
+    },
+    {
+      "title_id": "565707D0",
+      "title": "Lollipop Chainsaw (Premium Edition)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/565707D0%20-%20Lollipop%20Chainsaw%20(Premium%20Edition).patch.toml"
+    },
+    {
+      "title_id": "565707D0",
+      "title": "Lollipop Chainsaw",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/565707D0%20-%20Lollipop%20Chainsaw.patch.toml"
+    },
+    {
+      "title_id": "565707D6",
+      "title": "Killer Is Dead",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/565707D6%20-%20Killer%20Is%20Dead.patch.toml"
+    },
+    {
+      "title_id": "575207D3",
+      "title": "F.E.A.R. 2 Project Origin (TU3)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/575207D3%20-%20F.E.A.R.%202%20Project%20Origin%20(TU3).patch.toml"
+    },
+    {
+      "title_id": "575207D3",
+      "title": "F.E.A.R. 2 Project Origin",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/575207D3%20-%20F.E.A.R.%202%20Project%20Origin.patch.toml"
+    },
+    {
+      "title_id": "57520802",
+      "title": "Batman Arkham City (TU6)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/57520802%20-%20Batman%20Arkham%20City%20(TU6).patch.toml"
+    },
+    {
+      "title_id": "57520802",
+      "title": "Batman Arkham City GOTY",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/57520802%20-%20Batman%20Arkham%20City%20GOTY.patch.toml"
+    },
+    {
+      "title_id": "57520802",
+      "title": "Batman Arkham City",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/57520802%20-%20Batman%20Arkham%20City.patch.toml"
+    },
+    {
+      "title_id": "57520828",
+      "title": "Batman Arkham Origins (TU3)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/57520828%20-%20Batman%20Arkham%20Origins%20(TU3).patch.toml"
+    },
+    {
+      "title_id": "57520828",
+      "title": "Batman Arkham Origins (TU4)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/57520828%20-%20Batman%20Arkham%20Origins%20(TU4).patch.toml"
+    },
+    {
+      "title_id": "57520828",
+      "title": "Batman Arkham Origins",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/57520828%20-%20Batman%20Arkham%20Origins.patch.toml"
+    },
+    {
+      "title_id": "5752082C",
+      "title": "Middle-Earth Shadow of Mordor (TU2)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/5752082C%20-%20Middle-Earth%20Shadow%20of%20Mordor%20(TU2).patch.toml"
+    },
+    {
+      "title_id": "5752082C",
+      "title": "Middle-Earth Shadow of Mordor",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/5752082C%20-%20Middle-Earth%20Shadow%20of%20Mordor.patch.toml"
+    },
+    {
+      "title_id": "584107D5",
+      "title": "Small Arms",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/584107D5%20-%20Small%20Arms.patch.toml"
+    },
+    {
+      "title_id": "5841086A",
+      "title": "Boom Boom Rocket (TU2)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/5841086A%20-%20Boom%20Boom%20Rocket%20(TU2).patch.toml"
+    },
+    {
+      "title_id": "5841086A",
+      "title": "Boom Boom Rocket",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/5841086A%20-%20Boom%20Boom%20Rocket.patch.toml"
+    },
+    {
+      "title_id": "58410873",
+      "title": "Undertow (TU2)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/58410873%20-%20Undertow%20(TU2).patch.toml"
+    },
+    {
+      "title_id": "58410873",
+      "title": "Undertow",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/58410873%20-%20Undertow.patch.toml"
+    },
+    {
+      "title_id": "58410889",
+      "title": "Peggle",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/58410889%20-%20Peggle.patch.toml"
+    },
+    {
+      "title_id": "58410898",
+      "title": "Military Madness Nectaris",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/58410898%20-%20Military%20Madness%20Nectaris.patch.toml"
+    },
+    {
+      "title_id": "584108A9",
+      "title": "Bean (GoldenEye 007) (Community Edition)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/584108A9%20-%20Bean%20(GoldenEye%20007)%20(Community%20Edition).patch.toml"
+    },
+    {
+      "title_id": "584108A9",
+      "title": "Bean (GoldenEye 007)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/584108A9%20-%20Bean%20(GoldenEye%20007).patch.toml"
+    },
+    {
+      "title_id": "584108AA",
+      "title": "1942 Joint Strike",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/584108AA%20-%201942%20Joint%20Strike.patch.toml"
+    },
+    {
+      "title_id": "584108AB",
+      "title": "WOTB Commando 3 (TU2)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/584108AB%20-%20WOTB%20Commando%203%20(TU2).patch.toml"
+    },
+    {
+      "title_id": "584108AB",
+      "title": "WOTB Commando 3",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/584108AB%20-%20WOTB%20Commando%203.patch.toml"
+    },
+    {
+      "title_id": "584108C7",
+      "title": "Shrek n' Roll",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/584108C7%20-%20Shrek%20n'%20Roll.patch.toml"
+    },
+    {
+      "title_id": "584108CB",
+      "title": "Defense Grid The Awakening (TU5)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/584108CB%20-%20Defense%20Grid%20The%20Awakening%20(TU5).patch.toml"
+    },
+    {
+      "title_id": "584108CB",
+      "title": "Defense Grid The Awakening",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/584108CB%20-%20Defense%20Grid%20The%20Awakening.patch.toml"
+    },
+    {
+      "title_id": "584108D3",
+      "title": "Boogie Bunnies",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/584108D3%20-%20Boogie%20Bunnies.patch.toml"
+    },
+    {
+      "title_id": "584108DB",
+      "title": "A Kingdom for Keflings",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/584108DB%20-%20A%20Kingdom%20for%20Keflings.patch.toml"
+    },
+    {
+      "title_id": "584108EC",
+      "title": "Ticket to Ride",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/584108EC%20-%20Ticket%20to%20Ride.patch.toml"
+    },
+    {
+      "title_id": "584108F6",
+      "title": "Shadow Complex",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/584108F6%20-%20Shadow%20Complex.patch.toml"
+    },
+    {
+      "title_id": "58410908",
+      "title": "Gel Set & Match",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/58410908%20-%20Gel%20Set%20%26%20Match.patch.toml"
+    },
+    {
+      "title_id": "5841090B",
+      "title": "Doritos Dash of Destruction",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/5841090B%20-%20Doritos%20Dash%20of%20Destruction.patch.toml"
+    },
+    {
+      "title_id": "58410921",
+      "title": "CellFactor PW",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/58410921%20-%20CellFactor%20PW.patch.toml"
+    },
+    {
+      "title_id": "58410954",
+      "title": "Banjo-Kazooie (TU2)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/58410954%20-%20Banjo-Kazooie%20(TU2).patch.toml"
+    },
+    {
+      "title_id": "58410954",
+      "title": "Banjo-Kazooie",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/58410954%20-%20Banjo-Kazooie.patch.toml"
+    },
+    {
+      "title_id": "58410955",
+      "title": "Banjo-Tooie",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/58410955%20-%20Banjo-Tooie.patch.toml"
+    },
+    {
+      "title_id": "58410964",
+      "title": "Alien Breed Episode 1",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/58410964%20-%20Alien%20Breed%20Episode%201.patch.toml"
+    },
+    {
+      "title_id": "58410968",
+      "title": "Outrun Online Arcade",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/58410968%20-%20Outrun%20Online%20Arcade.patch.toml"
+    },
+    {
+      "title_id": "5841096A",
+      "title": "Hydro Thunder Hurricane",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/5841096A%20-%20Hydro%20Thunder%20Hurricane.patch.toml"
+    },
+    {
+      "title_id": "584109C2",
+      "title": "Perfect Dark (Dec 3, 2009 Prototype)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/584109C2%20-%20Perfect%20Dark%20(Dec%203%2C%202009%20Prototype).patch.toml"
+    },
+    {
+      "title_id": "584109C2",
+      "title": "Perfect Dark (Mar 4, 2010 Prototype)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/584109C2%20-%20Perfect%20Dark%20(Mar%204%2C%202010%20Prototype).patch.toml"
+    },
+    {
+      "title_id": "584109C2",
+      "title": "Perfect Dark (TU3)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/584109C2%20-%20Perfect%20Dark%20(TU3).patch.toml"
+    },
+    {
+      "title_id": "584109C2",
+      "title": "Perfect Dark",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/584109C2%20-%20Perfect%20Dark.patch.toml"
+    },
+    {
+      "title_id": "584109DA",
+      "title": "Serious Sam HD TFE",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/584109DA%20-%20Serious%20Sam%20HD%20TFE.patch.toml"
+    },
+    {
+      "title_id": "584109FF",
+      "title": "Plants vs. Zombies",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/584109FF%20-%20Plants%20vs.%20Zombies.patch.toml"
+    },
+    {
+      "title_id": "58410A05",
+      "title": "Outland",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/58410A05%20-%20Outland.patch.toml"
+    },
+    {
+      "title_id": "58410A22",
+      "title": "Alien Breed 2 Assault",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/58410A22%20-%20Alien%20Breed%202%20Assault.patch.toml"
+    },
+    {
+      "title_id": "58410A34",
+      "title": "Crazy Taxi",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/58410A34%20-%20Crazy%20Taxi.patch.toml"
+    },
+    {
+      "title_id": "58410A39",
+      "title": "Space Channel 5 Part 2",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/58410A39%20-%20Space%20Channel%205%20Part%202.patch.toml"
+    },
+    {
+      "title_id": "58410A70",
+      "title": "Harm's Way",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/58410A70%20-%20Harm's%20Way.patch.toml"
+    },
+    {
+      "title_id": "58410A72",
+      "title": "Serious Sam HD TSE",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/58410A72%20-%20Serious%20Sam%20HD%20TSE.patch.toml"
+    },
+    {
+      "title_id": "58410A8D",
+      "title": "Dead Rising 2 Case Zero",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/58410A8D%20-%20Dead%20Rising%202%20Case%20Zero.patch.toml"
+    },
+    {
+      "title_id": "58410A95",
+      "title": "Iron Brigade (TU6)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/58410A95%20-%20Iron%20Brigade%20(TU6).patch.toml"
+    },
+    {
+      "title_id": "58410A95",
+      "title": "Iron Brigade",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/58410A95%20-%20Iron%20Brigade.patch.toml"
+    },
+    {
+      "title_id": "58410AA2",
+      "title": "Dungeons & Dragons Daggerdale",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/58410AA2%20-%20Dungeons%20%26%20Dragons%20Daggerdale.patch.toml"
+    },
+    {
+      "title_id": "58410AA3",
+      "title": "Alien Breed 3 Descent",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/58410AA3%20-%20Alien%20Breed%203%20Descent.patch.toml"
+    },
+    {
+      "title_id": "58410B00",
+      "title": "Dead Rising 2 Case West",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/58410B00%20-%20Dead%20Rising%202%20Case%20West.patch.toml"
+    },
+    {
+      "title_id": "58410B22",
+      "title": "Alien Rage",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/58410B22%20-%20Alien%20Rage.patch.toml"
+    },
+    {
+      "title_id": "58410B45",
+      "title": "Section 8 Prejudice (TU2)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/58410B45%20-%20Section%208%20Prejudice%20(TU2).patch.toml"
+    },
+    {
+      "title_id": "58410B45",
+      "title": "Section 8 Prejudice",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/58410B45%20-%20Section%208%20Prejudice.patch.toml"
+    },
+    {
+      "title_id": "58410B48",
+      "title": "Dead Block",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/58410B48%20-%20Dead%20Block.patch.toml"
+    },
+    {
+      "title_id": "58410B52",
+      "title": "Warhammer 40,000 Kill Team",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/58410B52%20-%20Warhammer%2040%2C000%20Kill%20Team.patch.toml"
+    },
+    {
+      "title_id": "58410B55",
+      "title": "Who Wants to Be a Millionaire Special Editions",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/58410B55%20-%20Who%20Wants%20to%20Be%20a%20Millionaire%20Special%20Editions.patch.toml"
+    },
+    {
+      "title_id": "58410B6D",
+      "title": "Dungeon Defenders (TU2)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/58410B6D%20-%20Dungeon%20Defenders%20(TU2).patch.toml"
+    },
+    {
+      "title_id": "58410B6D",
+      "title": "Dungeon Defenders",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/58410B6D%20-%20Dungeon%20Defenders.patch.toml"
+    },
+    {
+      "title_id": "58410B7A",
+      "title": "Bloodforge (TU1)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/58410B7A%20-%20Bloodforge%20(TU1).patch.toml"
+    },
+    {
+      "title_id": "58410B7A",
+      "title": "Bloodforge",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/58410B7A%20-%20Bloodforge.patch.toml"
+    },
+    {
+      "title_id": "58410B8D",
+      "title": "Deadlight (TU1)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/58410B8D%20-%20Deadlight%20(TU1).patch.toml"
+    },
+    {
+      "title_id": "58410B8D",
+      "title": "Deadlight",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/58410B8D%20-%20Deadlight.patch.toml"
+    },
+    {
+      "title_id": "584111DC",
+      "title": "Warp",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/584111DC%20-%20Warp.patch.toml"
+    },
+    {
+      "title_id": "584111E8",
+      "title": "State of Decay (TU5)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/584111E8%20-%20State%20of%20Decay%20(TU5).patch.toml"
+    },
+    {
+      "title_id": "584111E8",
+      "title": "State of Decay (TU7)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/584111E8%20-%20State%20of%20Decay%20(TU7).patch.toml"
+    },
+    {
+      "title_id": "584111E8",
+      "title": "State of Decay",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/584111E8%20-%20State%20of%20Decay.patch.toml"
+    },
+    {
+      "title_id": "584111F7",
+      "title": "Minecraft (XBLA, TU0)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/584111F7%20-%20Minecraft%20(XBLA%2C%20TU0).patch.toml"
+    },
+    {
+      "title_id": "584111F7",
+      "title": "Minecraft (XBLA, TU1)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/584111F7%20-%20Minecraft%20(XBLA%2C%20TU1).patch.toml"
+    },
+    {
+      "title_id": "584111F7",
+      "title": "Minecraft (XBLA, TU2)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/584111F7%20-%20Minecraft%20(XBLA%2C%20TU2).patch.toml"
+    },
+    {
+      "title_id": "584111F7",
+      "title": "Minecraft (XBLA, TU3)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/584111F7%20-%20Minecraft%20(XBLA%2C%20TU3).patch.toml"
+    },
+    {
+      "title_id": "584111F7",
+      "title": "Minecraft (XBLA, TU4)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/584111F7%20-%20Minecraft%20(XBLA%2C%20TU4).patch.toml"
+    },
+    {
+      "title_id": "584111F7",
+      "title": "Minecraft (XBLA, TU75)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/584111F7%20-%20Minecraft%20(XBLA%2C%20TU75).patch.toml"
+    },
+    {
+      "title_id": "58411233",
+      "title": "Alan Wake's American Nightmare",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/58411233%20-%20Alan%20Wake's%20American%20Nightmare.patch.toml"
+    },
+    {
+      "title_id": "5841124B",
+      "title": "The Expendables 2 Videogame",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/5841124B%20-%20The%20Expendables%202%20Videogame.patch.toml"
+    },
+    {
+      "title_id": "5841124F",
+      "title": "Doritos Crash Course 2",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/5841124F%20-%20Doritos%20Crash%20Course%202.patch.toml"
+    },
+    {
+      "title_id": "58411277",
+      "title": "Zeno Clash 2 (TU1)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/58411277%20-%20Zeno%20Clash%202%20(TU1).patch.toml"
+    },
+    {
+      "title_id": "58411277",
+      "title": "Zeno Clash 2",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/58411277%20-%20Zeno%20Clash%202.patch.toml"
+    },
+    {
+      "title_id": "5841127F",
+      "title": "Serious Sam 3 BFE",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/5841127F%20-%20Serious%20Sam%203%20BFE.patch.toml"
+    },
+    {
+      "title_id": "5841128C",
+      "title": "Karateka",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/5841128C%20-%20Karateka.patch.toml"
+    },
+    {
+      "title_id": "58411293",
+      "title": "Narco Terror",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/58411293%20-%20Narco%20Terror.patch.toml"
+    },
+    {
+      "title_id": "584112A5",
+      "title": "Brothers A Tale of Two Sons",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/584112A5%20-%20Brothers%20A%20Tale%20of%20Two%20Sons.patch.toml"
+    },
+    {
+      "title_id": "584112AD",
+      "title": "Special Forces Team X",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/584112AD%20-%20Special%20Forces%20Team%20X.patch.toml"
+    },
+    {
+      "title_id": "584112B0",
+      "title": "Call of Juarez Gunslinger",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/584112B0%20-%20Call%20of%20Juarez%20Gunslinger.patch.toml"
+    },
+    {
+      "title_id": "58411329",
+      "title": "Sanctum 2",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/58411329%20-%20Sanctum%202.patch.toml"
+    },
+    {
+      "title_id": "584113C2",
+      "title": "Teenage Mutant Ninja Turtles Out of the Shadows",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/584113C2%20-%20Teenage%20Mutant%20Ninja%20Turtles%20Out%20of%20the%20Shadows.patch.toml"
+    },
+    {
+      "title_id": "584113F8",
+      "title": "Fireburst",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/584113F8%20-%20Fireburst.patch.toml"
+    },
+    {
+      "title_id": "584113FE",
+      "title": "Flashback (TU1)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/584113FE%20-%20Flashback%20(TU1).patch.toml"
+    },
+    {
+      "title_id": "584113FE",
+      "title": "Flashback",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/584113FE%20-%20Flashback.patch.toml"
+    },
+    {
+      "title_id": "58411403",
+      "title": "Marlow Briggs and the Mask of Death",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/58411403%20-%20Marlow%20Briggs%20and%20the%20Mask%20of%20Death.patch.toml"
+    },
+    {
+      "title_id": "58411408",
+      "title": "Castlevania LOS-MOF HD",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/58411408%20-%20Castlevania%20LOS-MOF%20HD.patch.toml"
+    },
+    {
+      "title_id": "5841141A",
+      "title": "Contrast (TU1)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/5841141A%20-%20Contrast%20(TU1).patch.toml"
+    },
+    {
+      "title_id": "5841141A",
+      "title": "Contrast",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/5841141A%20-%20Contrast.patch.toml"
+    },
+    {
+      "title_id": "58411436",
+      "title": "Peggle 2",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/58411436%20-%20Peggle%202.patch.toml"
+    },
+    {
+      "title_id": "5841147C",
+      "title": "Life Is Strange (TU9)",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/5841147C%20-%20Life%20Is%20Strange%20(TU9).patch.toml"
+    },
+    {
+      "title_id": "5841147C",
+      "title": "Life Is Strange",
+      "kind": "community_reference",
+      "status": "Reference only; no ready console recipe",
+      "source": "https://github.com/xenia-canary/game-patches/blob/fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d/patches/5841147C%20-%20Life%20Is%20Strange.patch.toml"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schema": 1,
+  "kind": "signature_patch",
+  "id": "rsv2-xbox360forever-user-transcript",
+  "name": "Rainbow Six Vegas 2 — Xbox360forever signatures",
+  "game_title": "Tom Clancy's Rainbow Six Vegas 2",
+  "title_ids": ["55530807"],
+  "source": "https://www.youtube.com/@xbox360forever3",
+  "provenance": "Exact byte edits and long signatures supplied by the user from the creator's instructions. No game binary was provided or tested.",
+  "hardware_tested": false,
+  "tu_tested": false,
+  "signatures": [
+    {
+      "label": "Presentation selector",
+      "pattern": "81 5F 35 0C 28 0A 00 00 41 82 00 40 2B 0A 00 01 41 9A 00 38 2B 0A 00 02 41 9A 00 28 2B 0A 00 04 41 9A 00 18 3D 20 80 00 7F 0A 48 40",
+      "write_offset": 0,
+      "expected": "81 5F 35 0C",
+      "replacement": "39 40 00 01"
+    },
+    {
+      "label": "Presentation fallback",
+      "pattern": "39 40 00 01 48 00 00 08 81 41 00 50 81 3F 2E 44 55 48 40 2E 3D 40 82 45 55 29 4E 7E 38 CA 11 F8 7D 2A 43 78",
+      "write_offset": 0,
+      "expected": "39 40 00 01",
+      "replacement": "39 40 00 00"
+    }
+  ]
+}

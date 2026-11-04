@@ -1,0 +1,29 @@
+RGH FPS Workbench 0.3.0 (development prototype) — Rainbow Six Vegas 2
+
+Requirements: Windows, standard Python 3.10+ with Tk, and your own XexTool.
+
+1. Clone the repository or extract the source ZIP and run Start-Workbench.cmd.
+2. Choose your game folder/XEX or GOD header/ISO, matching TU, and XexTool.
+   For GOD, keep the matching .data folder and all Data0000… files together.
+   Click Prepare copy.
+3. Select a recipe or paste the creator's instructions. Scan, preview, export.
+
+The Rainbow Six Vegas 2 recipe from your supplied instructions is included.
+The Games tab lists included recipes, community references, and local games.
+Community references are not ready console patch recipes.
+
+GOD/ISO export creates a complete extracted game in game/. No GOD2ISO is needed.
+Launch that extracted copy through Aurora. The original GOD is not changed.
+For XEX/folder input, game_overlay/ must go onto a separate full game copy.
+
+Projects and exports are separate from the original game. Output is a candidate
+for console testing, not a hardware-tested release. Read README.md for TU loading
+and asset details. This ZIP is source + launcher, not a precompiled Windows EXE.
+
+Use Extract ISO / GOD only or Inspect/Extract TU only without XexTool.
+Modified TU rebuilding is not implemented. FPS export currently needs an
+extracted game copy.
+
+Optional: Neighborhood / XBDM connects to a console already running XBDM.
+Uploads use new destinations and SHA-256 readback; launch is a separate action.
+Real console transport and Windows builds still need hardware validation.

@@ -1,0 +1,9 @@
+Put your own xextool.exe here, or select it with Browse in the app.
+
+XexTool is not bundled. Compatible command-line options:
+  -p PATCH -u -o OUTPUT INPUT
+  -c u -e u -o OUTPUT INPUT
+
+Project and releases:
+https://github.com/Team-Resurgent/XexTool
+https://github.com/Team-Resurgent/XexTool/releases

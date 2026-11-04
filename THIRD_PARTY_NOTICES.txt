@@ -1,0 +1,54 @@
+Xenia Xbox 360 Emulator Research Project
+https://github.com/xenia-project/xenia
+
+XEX2/STFS structure definitions and STFS block-address / active hash-table
+selection algorithms in rghfps/formats.py follow the published Xenia sources.
+The GOD/SVOD sector mapping in rghfps/god.py also follows Xenia's published
+reader. Its hash-chain layout was cross-checked against the iso2god-rs writer:
+https://github.com/iliazeus/iso2god-rs/tree/master/src/god
+The Python implementation is written for this project. The original sources
+carry this notice, which is retained for the format-derived calculations:
+
+Copyright (c) 2015, Ben Vanik.
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+    * Redistributions of source code must retain the above copyright
+      notice, this list of conditions and the following disclaimer.
+    * Redistributions in binary form must reproduce the above copyright
+      notice, this list of conditions and the following disclaimer in the
+      documentation and/or other materials provided with the distribution.
+    * Neither the name of the project nor the
+      names of its contributors may be used to endorse or promote products
+      derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL BEN VANIK BE LIABLE FOR ANY
+DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+---
+Rainbow Six Vegas 2 recipe credit: Xbox360forever
+https://www.youtube.com/@xbox360forever3
+Exact byte values/signatures were supplied in the user's transcription.
+Their inclusion does not imply the creator reviewed or endorsed this tool.
+
+The offline catalog contains title/build names, Title IDs and source links from
+xenia-canary/game-patches at fe957a050e37f5a1e3f485ca43c2e37ee2a9c92d.
+It does not distribute those patches or imply that they are console compatible.
+
+XexTool is not included. Its executable, dependencies and licenses remain
+separate from this workbench. No Xbox game executable or game asset is shipped.
+
+XBDM wire-protocol behavior was cross-checked against public implementations:
+https://github.com/Experiment5X/XBDM
+https://github.com/MobCat/xbdm.py
+The Python client here is a project implementation; no Microsoft SDK or XBDM
+plugin binary is included.
