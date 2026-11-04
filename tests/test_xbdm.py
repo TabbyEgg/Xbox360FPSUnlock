@@ -39,7 +39,7 @@ class ConsoleHandler(socketserver.StreamRequestHandler):
     def handle(self):
         try:
             self.process()
-        except (BrokenPipeError, ConnectionResetError):
+        except (BrokenPipeError, ConnectionResetError, ConnectionAbortedError):
             pass  # Expected when a rejected transfer closes early.
         except Exception as exc:
             self.server.errors.append(repr(exc))
