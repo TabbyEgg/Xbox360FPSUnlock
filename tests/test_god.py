@@ -18,7 +18,7 @@ class GodTests(unittest.TestCase):
     def setUp(self):
         self.temp = tempfile.TemporaryDirectory()
         self.addCleanup(self.temp.cleanup)
-        self.root = Path(self.temp.name)
+        self.root = Path(self.temp.name).resolve()
         self.original = game_data(encrypted=1)
 
     def test_standard_enhanced_and_embedded_layouts(self):
@@ -140,7 +140,10 @@ class GodTests(unittest.TestCase):
         output = self.root / "export"
         receipt = export_candidate(project, bind_signatures(data, RSV2), output)
         self.assertEqual((output / "game" / "Media.bin").read_bytes(), b"updated asset")
-        self.assertFalse((output / "game" / "media.bin").exists())
+        names = [p.name for p in (output / "game").iterdir()]
+        self.assertIn("Media.bin", names)
+        self.assertNotIn("media.bin", names)
+        self.assertEqual(sum(name.casefold() == "media.bin" for name in names), 1)
         self.assertEqual(receipt["files"]["Media.bin"], hashlib.sha256(b"updated asset").hexdigest())
 
 
